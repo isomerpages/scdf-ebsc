@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Operational Stress.md
-      - Behavioural Coping.md
-      - Automatic Thoughts.md
-      - Feelings & Emotions.md
-      - Motivation.md
       - Critical Incident Stress.md
+      - Feelings & Emotions.md
+      - Automatic Thoughts.md
+      - Behavioural Coping.md
+      - Motivation.md
       - Psychological Preparedness.md
       - Tips for Supporting Colleagues.md
