@@ -24,10 +24,6 @@ sections:
         - title: Support Options
           description: Know the help available
           url: /support-options
-  - infobar:
-      title: More info on self-help portal
-      subtitle: LEARN MORE
-      description: Description
   - infopic:
       title: Content
       subtitle: "EXPLORE "
@@ -52,8 +48,9 @@ sections:
       button: START FINDING OUT MORE
       url: /support-options
       alt: Image alt text
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+  - infobar:
+      title: "For your information:"
+      description: This portal is for emergency responders in Singapore's context.
+        Some information may be very contextualised and not applicable under
+        different settings.
 ---
