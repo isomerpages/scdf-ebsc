@@ -2,6 +2,7 @@ collections:
   tools:
     output: true
     order:
+      - Overview.md
       - Healthy Behavioural Coping.md
       - Targeting Automatic Thoughts.md
       - Emotion Regulation.md
