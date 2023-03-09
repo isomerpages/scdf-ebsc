@@ -1,4 +1,5 @@
 collections:
   support-options:
     output: true
-    order: []
+    order:
+      - SCDF Resources.md
