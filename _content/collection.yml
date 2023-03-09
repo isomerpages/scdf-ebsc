@@ -2,4 +2,5 @@ collections:
   content:
     output: true
     order:
+      - Critical Stress.md
       - Operational Stress.md
