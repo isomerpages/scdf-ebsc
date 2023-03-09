@@ -15,7 +15,7 @@ sections:
       button: Get Started
       url: /content
       key_highlights:
-        - title: Overview
+        - title: Content
           description: Explore the various topics
           url: /content
         - title: Tools
