@@ -2,6 +2,7 @@ collections:
   content:
     output: true
     order:
+      - Automatic Thoughts.md
       - Feelings & Emotions.md
       - Operational Stress.md
       - Critical Incident Stress.md
