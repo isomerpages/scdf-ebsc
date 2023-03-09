@@ -2,5 +2,5 @@ collections:
   content:
     output: true
     order:
-      - Critical Incident Stress.md
       - Operational Stress.md
+      - Critical Incident Stress.md
