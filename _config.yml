@@ -3,7 +3,7 @@ url: https://www.ebscselfhelpportal.sg
 favicon: /images/EBSC logo.jpg
 colors:
   primary-color: "#4372d6"
-  secondary-color: "#4372d6"
+  secondary-color: "#172b53"
   media-colors:
     - title: media-color-one
       color: "#49759a"
