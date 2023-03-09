@@ -2,5 +2,6 @@ collections:
   content:
     output: true
     order:
+      - Feelings & Emotions.md
       - Operational Stress.md
       - Critical Incident Stress.md
