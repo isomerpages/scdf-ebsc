@@ -2,6 +2,7 @@ collections:
   content:
     output: true
     order:
+      - Tips for Supporting Colleagues.md
       - Psychological Preparedness.md
       - Motivation.md
       - Behavioural Coping.md
