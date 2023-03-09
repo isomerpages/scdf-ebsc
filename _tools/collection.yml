@@ -2,7 +2,7 @@ collections:
   tools:
     output: true
     order:
-      - Building Social Fitness.md
       - Healthy Behavioural Coping.md
       - Targeting Automatic Thoughts.md
       - Emotion Regulation.md
+      - Building Social Fitness.md
