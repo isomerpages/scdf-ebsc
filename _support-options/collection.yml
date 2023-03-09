@@ -2,5 +2,5 @@ collections:
   support-options:
     output: true
     order:
-      - External Resources.md
       - SCDF Resources.md
+      - External Resources.md
