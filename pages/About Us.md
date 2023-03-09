@@ -3,7 +3,7 @@ title: About Us
 permalink: /about-us/
 description: ""
 ---
-![]()
+![](/images/AboutEBSC2.png)
 
 **WHAT DO WE DO?**
 
