@@ -1,4 +1,5 @@
 collections:
   content:
     output: true
-    order: []
+    order:
+      - Operational Stress.md
