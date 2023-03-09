@@ -4,3 +4,5 @@ links:
     url: /about-us
   - title: Content
     collection: content
+  - title: Tools
+    collection: tools
