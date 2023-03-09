@@ -2,3 +2,5 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     url: /about-us
+  - title: Contact Us
+    url: /contact-us
