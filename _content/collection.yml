@@ -2,11 +2,11 @@ collections:
   content:
     output: true
     order:
-      - Tips for Supporting Colleagues.md
-      - Psychological Preparedness.md
-      - Motivation.md
+      - Operational Stress.md
       - Behavioural Coping.md
       - Automatic Thoughts.md
       - Feelings & Emotions.md
-      - Operational Stress.md
+      - Motivation.md
       - Critical Incident Stress.md
+      - Psychological Preparedness.md
+      - Tips for Supporting Colleagues.md
