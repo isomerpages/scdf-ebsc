@@ -11,7 +11,7 @@ sections:
       title: Self-Help Portal
       subtitle: "Welcome to EBSC's self-help portal - an online resource for SCDF's
         first responders "
-      background: /images/hero-banner.png
+      background: /images/Banner3.jpg
       button: Get Started
       url: /content
       key_highlights:
