@@ -3,7 +3,6 @@ title: Operational Stress
 permalink: /ops-stress/
 description: ""
 ---
-
 #### Operational Stress
 * Operational stress refers to the stress we face due to the responsibilities, condition, environment, or other pressures of the workplace.
 * When we are aware of such stressors and their impact, we are better prepared to manage our stress reactions and support our team members. We will also be able to perform better in our job and find meaning in our work.
@@ -15,5 +14,3 @@ description: ""
 #### Stress-Related Reactions
 * Let's use the BEEP model to help us understand out stressors better!
 * *Note: This list is not exhaustive and different individuals may exhibit different symptoms*
-
-
