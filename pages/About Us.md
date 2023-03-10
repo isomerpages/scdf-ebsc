@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/AboutEBSC2.png)
 
-**WHAT DO WE DO?**
+### **WHAT DO WE DO?**
 
 *Supporting Operations*
 * Critical Incident Stress Management
