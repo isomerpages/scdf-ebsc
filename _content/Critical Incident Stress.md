@@ -30,4 +30,4 @@ description: ""
 * You can also check out these pages on building your [physical](/tools/healthy-behavioural-coping), [emotional](/tools/emotion-regulation), [mental](/tools/targeting-automatic-thoughts), and [social](/tools/building-social-fitness) fitness that can help you in coping with critical incident stress and its reactions.
 
 ### References
-* 
+*
