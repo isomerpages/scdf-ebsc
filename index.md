@@ -51,10 +51,6 @@ sections:
       url: /support-options
       alt: Image alt text
       image: /images/Tools Photo.jpg
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
   - infobar:
       title: "For your information:"
       description: This portal is for emergency responders in Singapore's context.
