@@ -32,6 +32,7 @@ sections:
       button: START GAINING MORE KNOWLEDGE
       url: /content
       alt: Image alt text
+      image: /images/Ops Stress Photo2.jpg
   - infopic:
       title: Tools
       subtitle: GET EQUIPPED
@@ -40,6 +41,7 @@ sections:
       button: START BUILDING YOUR TOOLBOX
       url: /tools
       alt: Image alt text
+      image: /images/Suppot Photo.jpg
   - infopic:
       title: Support Options
       subtitle: KNOW YOUR RESOURCES
@@ -48,6 +50,7 @@ sections:
       button: START FINDING OUT MORE
       url: /support-options
       alt: Image alt text
+      image: /images/Tools Photo.jpg
   - infobar:
       title: "For your information:"
       description: This portal is for emergency responders in Singapore's context.
