@@ -53,7 +53,7 @@ sections:
       image: /images/Tools Photo.jpg
   - infobar:
       title: "For your information:"
-      description: This portal is for emergency responders in Singapore's context.
-        Some information may be very contextualised and not applicable under
-        different settings.
+      description: This portal is curated for emergency responders in Singapore's
+        context. Some information may be very contextualised and not applicable
+        under different settings.
 ---
