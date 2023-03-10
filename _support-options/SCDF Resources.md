@@ -3,7 +3,7 @@ title: SCDF Resources
 permalink: /support-options/SCDF-resources/
 description: ""
 ---
-### These are the SCDF in-house resources available to support you
+### These are the in-house resources available to support you
 * Paracounsellors and NSF Peer Supporters
 * SCDF 24/7 Counselling Helpline: 1800-286-6666
 * Counselling Support by EBSC
