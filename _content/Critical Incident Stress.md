@@ -4,7 +4,7 @@ permalink: /content/critical-incident-stress/
 description: ""
 ---
 ### Critical Incidents
-* A critical incident is an event which has the potential to bring about a crisis response.
+* A critical incident is an event which has the **potential to bring about a crisis response**.
 	* Unusually challenging events
 	* Potential to generate intense emotions and distress, that may not be usually experienced
 	* Affects the normal self
