@@ -2,6 +2,7 @@ collections:
   managing-operational-stress:
     output: true
     order:
+      - Behavioural Coping.md
       - Feelings & Emotions.md
       - Automatic Thoughts.md
       - Critical Incident Stress.md
