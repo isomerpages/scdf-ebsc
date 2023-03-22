@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Behavioural Coping.md
       - Motivation.md
       - Psychological Preparedness.md
       - Tips for Supporting Colleagues.md
