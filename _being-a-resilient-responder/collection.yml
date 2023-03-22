@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Critical Incident Stress.md
       - Automatic Thoughts.md
       - Feelings & Emotions.md
       - Behavioural Coping.md
