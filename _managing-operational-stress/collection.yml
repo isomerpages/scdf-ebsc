@@ -2,6 +2,7 @@ collections:
   managing-operational-stress:
     output: true
     order:
+      - Operational Stress.md
       - Overview.md
       - Healthy Behavioural Coping.md
       - Targeting Automatic Thoughts.md
