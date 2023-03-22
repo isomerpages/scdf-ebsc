@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Automatic Thoughts.md
       - Feelings & Emotions.md
       - Behavioural Coping.md
       - Motivation.md
