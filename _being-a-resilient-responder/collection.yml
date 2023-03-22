@@ -1,5 +1,5 @@
 collections:
-  content:
+  being-a-resilient-responder:
     output: true
     order:
       - Overview.md
