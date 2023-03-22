@@ -2,11 +2,11 @@ collections:
   being-a-resilient-responder:
     output: true
     order:
-      - Building Social Fitness.md
-      - Emotion Regulation.md
-      - Targeting Automatic Thoughts.md
-      - Healthy Behavioural Coping.md
       - Overview.md
-      - Motivation.md
       - Psychological Preparedness.md
+      - Motivation.md
+      - Healthy Behavioural Coping.md
+      - Targeting Automatic Thoughts.md
+      - Emotion Regulation.md
+      - Building Social Fitness.md
       - Tips for Supporting Colleagues.md
