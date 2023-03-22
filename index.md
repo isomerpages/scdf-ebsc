@@ -13,33 +13,31 @@ sections:
         first responders "
       background: /images/Banner3.jpg
       button: Get Started
-      url: /content
+      url: /being-a-resilient-responder
       key_highlights:
-        - title: Content
-          description: Explore the various topics
-          url: /content
-        - title: Tools
-          description: Pick up some useful skills
-          url: /tools
+        - title: Being a resilient responder
+          description: x
+          url: /being-a-resilient-responder
+        - title: Managing Operational stress
+          description: x
+          url: /managing-operational-stress
         - title: Support Options
           description: Know the help available
           url: /support-options
   - infopic:
-      title: Content
-      subtitle: "EXPLORE "
-      description: Explore various content such as operational stress, automatic
-        thoughts and tips to help colleagues in distress.
-      button: START GAINING MORE KNOWLEDGE
-      url: /content
+      title: Being a resilient responder
+      subtitle: x
+      description: x
+      button: x
+      url: /being-a-resilient-responder
       alt: Image alt text
       image: /images/Ops Stress Photo2.jpg
   - infopic:
-      title: Tools
-      subtitle: GET EQUIPPED
-      description: Pick up some skills such as emotion regulation, targeting automatic
-        thoughts and healthy coping skills.
-      button: START BUILDING YOUR TOOLBOX
-      url: /tools
+      title: Managing Operational Stress
+      subtitle: x
+      description: x
+      button: x
+      url: /managing-operational-stress
       alt: Image alt text
       image: /images/Suppot Photo.jpg
   - infopic:
