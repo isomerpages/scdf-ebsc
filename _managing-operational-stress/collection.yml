@@ -1,5 +1,5 @@
 collections:
-  tools:
+  managing-operational-stress:
     output: true
     order:
       - Overview.md
