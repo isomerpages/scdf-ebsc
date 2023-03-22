@@ -2,11 +2,11 @@ collections:
   managing-operational-stress:
     output: true
     order:
-      - Compassion Fatigue.md
-      - Compartmentalisation.md
       - Overview.md
       - Operational Stress.md
       - Critical Incident Stress.md
+      - Compartmentalisation.md
+      - Compassion Fatigue.md
       - Automatic Thoughts.md
       - Feelings & Emotions.md
       - Behavioural Coping.md
