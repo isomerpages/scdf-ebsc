@@ -2,6 +2,7 @@ collections:
   being-a-resilient-responder:
     output: true
     order:
+      - Emotion Regulation.md
       - Targeting Automatic Thoughts.md
       - Healthy Behavioural Coping.md
       - Overview.md
