@@ -8,6 +8,7 @@ When you are feeling overwhelmed, the following strategies can help you to regul
 ### Shift Your Focus of Attention
 The first technique is to shift your focus of attention away from the emotions you are experiencing – physically, or mentally. This gives yourself some time and space to slow down first, and think through the situation more carefully later on.
 ![](/images/Emotional%20Fitness%201.png)
+![](/images/Emotional%20Fitness%201%20(1).png)
 
 ### Deep Breathing
 Another technique is deep breathing, which can help you control your emotional responses when you feel overwhelmed by giving you time to calm down and relook at the situation.
