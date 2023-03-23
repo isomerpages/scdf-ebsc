@@ -27,3 +27,6 @@ The last technique is visualisation. Similar to daydreaming, visualisation is ac
 ![](/images/Emotional%20Fitness%204A.png)
 ![](/images/Emotional%20Fitness%204B.png)
 Where do you feel most relaxed? Try our some fun ways of visualisation during your rest breaks at your station!
+
+**References**
+* 
