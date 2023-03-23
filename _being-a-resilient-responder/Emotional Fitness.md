@@ -26,7 +26,7 @@ Alternatively, you can engage in PMR while lying down. The steps are the same:
 The last technique is visualisation. Similar to daydreaming, visualisation is accomplished through using your imagination.
 ![](/images/Emotional%20Fitness%204A.png)
 ![](/images/Emotional%20Fitness%204B.png)
-Where do you feel most relaxed? Try our some fun ways of visualisation during your rest breaks at your station!
+Where do you feel most relaxed? Try out some fun ways of visualisation during your rest breaks at your station!
 
 ### References
 *
