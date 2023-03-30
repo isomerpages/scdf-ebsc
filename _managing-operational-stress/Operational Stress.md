@@ -12,7 +12,7 @@ When we are aware of such stressors and their impact, we are better prepared to 
 Here are some sources of operational stress:![](/images/Ops%20Stress.png)*Note: This list is not exhaustive. For more information on highly stressful incidents such as critical incidents, check out the page on [critical incident stress](/managing-operational-stress/critical-incident-stress).*
 
 ### Stress-Related Reactions
-Next, let's use the **BEEP** model to help us understand out stressors better!
+Next, let's use the **BEEP** model to help us understand our stressors better!
 ![](/images/BEEP.jpg)*Note: This list is not exhaustive and different individuals may exhibit different symptoms.*
 
 These reactions are **normal** responses to the nature of our duties as emergency responders or supporting the organisation. However, if these reactions persist **beyond 1 month**, you should see a mental health professional to address what you are going through. There are [SCDF](/support-options/SCDF-resources) and [external](/support-options/external-resources) resources available to support you. If you need to talk to someone immediately, you can call SCDF's 24/7 Counselling Helpline (1800-286-6666) to talk to an EBSC staff
