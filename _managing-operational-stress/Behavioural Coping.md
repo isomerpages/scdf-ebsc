@@ -21,7 +21,7 @@ If you are thinking whether it will be worth the effort to start engaging in hea
 ### Being a Resilient Responder
 With the nature of your work as a first responder, it is **normal** to experience various stress reactions (see [operational stress](/managing-operational-stress/ops-stress) for some signs and symptoms). It is also alright if you feel overwhelmed by your experiences at work and 'fall down', as long as you find your way to stand back up - this is the definition of resilience, which is bouncing back after difficult experiences. 
 
-Continue building your personal resources to support you in being a resilient responder by being [psychologically prepared](/being-a-resilient-responder/psych-prep), [physically](/being-a-resilient-responder/physical-fitness), [mentally](/being-a-resilient-responder/mental-fitness), [emotionally](/being-a-resilient-responder/emotional-fitness), and [socially](/being-a-resilient-responder/social-fitness) fit, and knowing how to deal with how negative stress may influence your [thoughts](/managing-operational-stress/automatic-thoughts), [emotions](/managing-operational-stress/feelings-and-emotions), and behaviours!
+Continue building your personal resources to support you in being a resilient responder by being [psychologically prepared](/being-a-resilient-responder/psych-prep), [physically](/being-a-resilient-responder/physical-fitness), [mentally](/being-a-resilient-responder/mental-fitness), [emotionally](/being-a-resilient-responder/emotional-fitness), and [socially](/being-a-resilient-responder/social-fitness) fit, and knowing how to deal with how negative stress may influence your [thoughts](/managing-operational-stress/automatic-thoughts), [feelings](/managing-operational-stress/feelings-and-emotions), and behaviours!
 
 ### References
-* 
+*
