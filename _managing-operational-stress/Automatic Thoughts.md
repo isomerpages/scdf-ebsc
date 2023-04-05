@@ -12,7 +12,7 @@ It is not the event that bothers us. Instead, it is the way we **interpret** the
 
 This also means that although we may not always be able to change the situations we find ourselves in or the people we meet, we are in charge of how we interpret events. Our attitudes and perspectives determine how we will feel.
 
-### Unhelpful Thinking Styles
+### Unhelpful ThS
 Since our thoughts determine how we will feel, which in turn shapes our actions, it is important to know what type of thoughts we may have.
 
 We may have automatic thoughts that just 'pop' into our minds. While these thoughts are often very believable, they can be biased. Given that these thought patterns were learned and influenced by our values over a long period of time, they can be difficult to change.
