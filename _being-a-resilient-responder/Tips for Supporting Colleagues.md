@@ -35,4 +35,4 @@ It is **normal** to feel that seeking support can be viewed by others as being '
 In addition to SCDF's counselling support, there are various in-house and external resources that are available for you to refer your colleagues to. Click [here](/support-options/) for an overview of the support options available.
 
 ### References
-* 
+*
