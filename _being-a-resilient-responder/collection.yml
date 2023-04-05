@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
-      - Psychological Preparedness.md
+      - Psychological Preparation.md
       - Motivation.md
       - Physical Fitness.md
       - Mental Fitness.md
