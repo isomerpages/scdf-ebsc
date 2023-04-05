@@ -17,7 +17,7 @@ Since our **thoughts** determine how we will **feel**, which in turn shapes our 
 
 We may have automatic thoughts that just 'pop' into our minds. While these thoughts are often very believable, they can be **biased**. Given that these thought patterns were learned and influenced by our values over a long period of time, they can be difficult to change.
 
-However, what we can do when an automatic thought 'pops' into our minds is to **recognise** whether the thought is *helpful* or *unhelpful*. 
+However, what we can do when an automatic thought 'pops' into our mind is to **recognise** whether the thought is *helpful* or *unhelpful*. 
 
 ### Examples of Unhelpful Thoughts
 After attending to a challenging or routine call, when doing your work supporting the organisation, or even in your personal life, there may be some automatic thoughts that 'pop' into your mind. These thoughts can fall under the category of unhelpful thinking styles, which include the following:
