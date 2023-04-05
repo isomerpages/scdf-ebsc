@@ -15,4 +15,3 @@ Check out more strategies for emotional regulation on the page for [emotional fi
 You can also speak to someone and/or an EBSC staff if you feel that disengaging with your emotions while on the job is affecting you at work and at home.
 
 ### References
-
