@@ -3,9 +3,6 @@ title: Overview
 permalink: /managing-operational-stress/
 description: ""
 ---
+With the nature of our work as emergency responders, we may experience operational stress. This can potentially impact different areas of our lives, such as our thoughts, feelings, and behaviours. This can also alter our general outlook on life and also our interactions with others, including family, friends, and work colleagues.
 
-We can learn to cope proactively with the stressors we face at work. Coping strategies are mental efforts or behaviours that we adopt to deal with a stressful event.
-
-As the trick lies in consistency, not complacency, we can practice these strategies in between our shifts – even before we experience the signs and symptoms of operational stress. While these strategies are helpful in post-ops recovery, they are most helpful when practiced consistently pre-ops so that we will be **operationally ready**!
-
-By developing and enhancing our Fitness 4 (Physical, Mental, Emotional and Social Fitness) levels, we can achieve a balanced and all-rounded readiness to deal with the daily challenges and operational needs of our roles in SCDF, and ultimately **reduce the trauma and operational stress we experience**.
+Thus, it is important for us to first be aware of possible stressors and their impacts, so that we can learn some strategies to manage the stressors and take care of our well-being while continuing to fulfil our roles as emergency responders in saving lives and property! 
