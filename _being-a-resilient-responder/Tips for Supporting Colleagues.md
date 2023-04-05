@@ -10,7 +10,7 @@ There are 4 general types of distress: **B**ehavioural, **E**motional, **E**ffic
 
 What are some signs that our colleagues are in distress?
 ![](/images/BEEP.jpg)
-*Note: This is a non-exhaustive list, and different individuals may exhibit different symptoms. These reactions are also normal responses to the nature of our duties as emergency responders or supporting the organsiation.*
+*Note: This is a non-exhaustive list, and different individuals may exhibit different symptoms. These reactions are also normal responses to the nature of our duties as emergency responders or supporting the organisation.*
 
 ### Helping Our Colleagues
 Following the identification of distressed colleagues, you are strongly encouraged to engage them to gain a better understanding of their concerns and render appropriate assistance.
@@ -22,7 +22,7 @@ What is **helping**?
 * c) Gain awareness to cope
 
 Here are 5 steps to help your colleagues: **A**ttending, **L**istening, **E**ffective Questioning, **R**eferral, and **T**imely Intervention (**A-L-E-R-T**)
-![](/images/tips%20alert%201.png)![](/images/tips%20alert%202.png)![](/images/tips%20alert%203.png)
+![](/images/tips%20alert%201(1).png)![](/images/tips%20alert%201%20(2).png)![](/images/tips%20alert%201%20(3).png)
 
 ### Referral and Counselling
 If you feel that your colleague's signs and symptoms of distress are not going away, or if you have any other concerns, counselling is an option to consider. 
