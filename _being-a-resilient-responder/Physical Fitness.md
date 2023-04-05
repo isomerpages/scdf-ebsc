@@ -9,5 +9,6 @@ These are some strategies that you can adopt to manage your stress and improve y
 The first strategy is exercise. Check out come of its benefits:
 ![](/images/physical%20fitness%203.png)
 
-Sleep
-Next, part of the process of becoming fitter and healthier lies in recovery. This involves ensuring you get the recommended amount of at least 7 hours of sleep on your
+### Sleep
+Next, part of the process of becoming fitter and healthier lies in recovery. This involves ensuring you get the recommended amount of at least 7 hours of sleep on your rest days, so you have sufficient energy for the next day.
+![](/images/sleep%201.png)
