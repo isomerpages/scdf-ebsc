@@ -7,4 +7,5 @@ Our emotions play a role in guiding the decisions we make. The world around us t
 
 It is thus helpful to know how we are feeling and what actions our emotions may be guiding us towards. Let's start with exploring how you are feeling today!
 
-How are you 
+How Are You Feeling Today?
+
