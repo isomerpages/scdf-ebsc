@@ -20,4 +20,4 @@ In our eagerness to help others, we sometimes forget that to be able to do so, w
 Taking care of yourself also includes building your [physical fitness](/being-a-resilient-responder/physical-fitness), [mental fitness](/being-a-resilient-responder/mental-fitness), [emotional fitness](/being-a-resilient-responder/emotional-fitness), and [social fitness](/being-a-resilient-responder/social-fitness), which you can start doing today!
 
 ### References
-* 
+*
