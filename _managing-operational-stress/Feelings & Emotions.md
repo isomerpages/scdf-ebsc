@@ -18,7 +18,7 @@ So, how are you feeling today? These are some examples of words that can help yo
 
 ### Emotion's Frequency and Intensity
 In addition to knowing the emotion (or emotions) you are feeling, you can also look at **how much** of the emotion you are feeling and **how often** you may feel this way.
-![](/images/emotions%20motivate.png)
+![](/images/intensity%20&%20frequency%20of%20emotions.png)
 If the emotion has been overwhelming, here are some tools that can help you [regulate your emotions](/being-a-resilient-responder/emotional-fitness).
 
 ### How Our Emotions May Motivate Us
@@ -33,4 +33,4 @@ Take some time to reflect on the role emotions play in your life:
  To find out more about how your thoughts can influence your emotions, and subsequently your actions, you can check out the page on [automatic thoughts](/managing-operational-stress/automatic-thoughts).
 
 ### References
-* 
+*
