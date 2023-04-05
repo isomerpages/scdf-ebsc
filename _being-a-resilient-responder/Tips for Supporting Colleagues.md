@@ -30,7 +30,7 @@ If you feel that your colleague's signs and symptoms of distress are not going a
 For more information on SCDF's counselling processes, you can approach your supervisor, or contact SCDF_CARE@scdf.gov.sg or 6848 3433.
 
 ### Support Options
-It is **normal** to feel that seeking support can be viewed by others as being "weak" or not up to the expectations of an emergency responder. However, you and your colleagues need to take care of yourselves before you can take care of others as an emergency responder or in supporting the organisation.
+It is **normal** to feel that seeking support can be viewed by others as being 'weak' or not up to the expectations of an emergency responder. However, you and your colleagues need to take care of yourselves before you can take care of others as an emergency responder or in supporting the organisation.
 
 In addition to SCDF's counselling support, there are various in-house and external resources that are available for you to refer your colleagues to. Click [here](/support-options/) for an overview of the support options available.
 
