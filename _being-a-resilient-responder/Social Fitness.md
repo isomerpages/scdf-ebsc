@@ -12,4 +12,4 @@ Here are some ways you can build your social awareness - both at work as you int
 ![](/images/social%20support%201.png)![](/images/social%20support%202.png)
 
 ### Managing Relationships
-In your units/divisions, 
+In your units/divisions,
