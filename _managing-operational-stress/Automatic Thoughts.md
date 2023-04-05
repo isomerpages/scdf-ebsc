@@ -20,8 +20,9 @@ We may have automatic thoughts that just 'pop' into our minds. While these thoug
 However, what we can do when an automatic thought 'pops' into our mind is to **recognise** whether the thought is *helpful* or *unhelpful*. 
 
 ### Examples of Unhelpful Thoughts
-After attending to a challenging or routine call, when doing your work supporting the organisation, or even in your personal life, there may be some automatic thoughts that 'pop' into your mind. These thoughts can fall under the category of unhelpful thinking styles, which include the following:
+After attending to a challenging or routine call, when doing your work supporting the organisation, or even in your personal life, there may be some automatic thoughts that 'pop' into your mind. These thoughts can fall under the category of **unhelpful thinking styles**, which include the following:
 ![](/images/unhelpful%20thoughts%20examples%201.png)![](/images/unhelpful%20thoughts%20examples%202.png)
+*Note: This list is not exhaustive.*
 
 ### Helpful Thoughts
 Fortunately, it is possible to break the cycle of negativity and challenge your unhelpful thoughts.
