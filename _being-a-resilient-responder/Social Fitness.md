@@ -21,4 +21,3 @@ Having a strong social support system requires some effort, such as by showing t
 ![](/images/grow%20social%20support.png)
 What are you waiting for? Identify 3 people who are important to you and make an effort to reach out to them this week, even when you are not struggling.
 ![](/images/social%20support%202%20(2).png)
-
