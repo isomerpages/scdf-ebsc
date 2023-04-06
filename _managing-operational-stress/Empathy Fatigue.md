@@ -19,7 +19,7 @@ In our eagerness to help others, we sometimes forget that to be able to do so, w
 
 Taking care of yourself also includes building your [physical fitness](/being-a-resilient-responder/physical-fitness), [mental fitness](/being-a-resilient-responder/mental-fitness), [emotional fitness](/being-a-resilient-responder/emotional-fitness), and [social fitness](/being-a-resilient-responder/social-fitness), which you can start doing today!
 
-Note: While the terms 'compassion' and 'empathy' are often used interchangeably, recent research has found that the term 'empathy fatigue' is more appropriate, compared to using the term 'compassion fatigue'.
+*Note: While the terms 'compassion' and 'empathy' are often used interchangeably, recent research has found that the term 'empathy fatigue' is more appropriate, compared to using the term 'compassion fatigue'.*
 
 ### References
 * Dowling, T. (2018). Compassion does not fatigue! _The Canadian veterinary journal_, _59_(7), 749–750.
