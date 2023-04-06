@@ -24,4 +24,6 @@ With the nature of your work as a first responder, it is **normal** to experienc
 Continue building your personal resources to support you in being a resilient responder by being [psychologically prepared](/being-a-resilient-responder/psych-prep), [physically](/being-a-resilient-responder/physical-fitness), [mentally](/being-a-resilient-responder/mental-fitness), [emotionally](/being-a-resilient-responder/emotional-fitness), and [socially](/being-a-resilient-responder/social-fitness) fit, and knowing how to deal with how negative stress may influence your [thoughts](/managing-operational-stress/automatic-thoughts), [feelings](/managing-operational-stress/feelings-and-emotions), and behaviours!
 
 ### References
-*
+* HealthHub. (n.d.). _Understanding Stress_. Health Promotion Board. Retrieved March 1, 2023, from [https://www.healthhub.sg/live-healthy/425/understanding\_stress](https://www.healthhub.sg/live-healthy/425/understanding_stress)
+* Park, C. L., & Iacocca, M. O. (2014). A stress and coping perspective on health behaviors: Theoretical and methodological considerations. *Anxiety, Stress & Coping*, 27(2), 123-137, DOI: 10.1080/10615806.2013.860969 
+* Simon, L., Jiryis, T., & Admon, R. (2021). Now or Later? Stress-Induced Increase and Decrease in Choice Impulsivity Are Both Associated with Elevated Affective and Endocrine Responses. *Brain sciences, 11*(9), 1148. [https://doi.org/10.3390/brainsci11091148](https://doi.org/10.3390/brainsci11091148)**
