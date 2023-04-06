@@ -28,4 +28,4 @@ It is thus important to address what you are going through if the critical incid
 You can also check out these pages on building your [physical](/being-a-resilient-responder/physical-fitness), [mental](/being-a-resilient-responder/mental-fitness), [emotional](/being-a-resilient-responder/emotional-fitness), and [social](/being-a-resilient-responder/social-fitness) fitness that can help you in coping with critical incident stress and its reactions.
 
 ### References
-*
+* International Critical Incident Stress Foundation. (2015). *Critical Incident Stress Information Sheets.* [https://icisf.org/handout-resource/](https://icisf.org/handout-resource/)
