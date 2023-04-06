@@ -21,6 +21,7 @@ Lastly, remember to eat healthily! Having a healthy diet is easier than you thin
 ![](/images/physical%20fitness%201.png)
 
 ### References
+* Centers for Disease Control and Prevention. (n.d.). *Benefits of Healthy Eating*. Retrieved March 1, 2023, from https://www.cdc.gov/nutrition/resources-publications/benefits-of-healthy-eating.html
 * HealthHub. (n.d.). _Health benefits of exercise and physical activity_. Health Promotion Board. Retrieved March 1, 2023, from https://www.healthhub.sg/live-healthy/397/Physical%20Activity%20Benefits
 * HealthHub. (n.d.). _3 ways to improve sleep quality_. Health Promotion Board. Retrieved March 1, 2023, from https://www.healthhub.sg/live-healthy/1189/are-you-getting-quality-sleep
 * HealthHub. (n.d.). _Having a healthy diet is easier than you think_. Health Promotion Board. Retrieved March 1, 2023, from https://www.healthhub.sg/live-healthy/2082/balanced-diet-qqh-concept
