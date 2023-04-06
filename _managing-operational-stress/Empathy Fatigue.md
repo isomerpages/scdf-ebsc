@@ -4,9 +4,9 @@ permalink: /managing-operational-stress/empathy-fatigue/
 description: ""
 ---
 ### What is Empathy Fatigue?
-Empathy fatigue is an emotional exhaustion that manifests as the **reduced ability of an emergency responder to engage in empathy** for the survivor they are working with (French, 2020). 
+Empathy fatigue refers to an **emotional exhaustion** that manifests as the reduced ability of an emergency responder to be empathetic towards the survivor they are working with. 
 ![](/images/empathy%20fatigue%201.png)
-Signs and Symptoms
+### Signs and Symptoms
 While many firefighters and paramedics are good at internalising operational stress while functioning well from the perspective of others, empathy fatigue can be a real possibility for some without any effective coping mechanisms and strong personal boundaries put in place. 
 
 Do you recognise any of these **signs and symptoms of empathy fatigue** in yourself or your colleagues?
@@ -20,4 +20,4 @@ In our eagerness to help others, we sometimes forget that to be able to do so, w
 Taking care of yourself also includes building your [physical fitness](/being-a-resilient-responder/physical-fitness), [mental fitness](/being-a-resilient-responder/mental-fitness), [emotional fitness](/being-a-resilient-responder/emotional-fitness), and [social fitness](/being-a-resilient-responder/social-fitness), which you can start doing today!
 
 ### References
-*
+* French, L. (2020, August 28). _Researchers studying compassion fatigue seek responses from first responders_. EMS1. [https://www.ems1.com/mental-health/articles/researchers-studying-compassion-fatigue-seek-responses-from-first-responders-k1N4SgYJWe0EOmdT/](https://www.ems1.com/mental-health/articles/researchers-studying-compassion-fatigue-seek-responses-from-first-responders-k1N4SgYJWe0EOmdT/)
