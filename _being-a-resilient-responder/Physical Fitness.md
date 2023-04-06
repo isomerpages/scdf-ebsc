@@ -23,4 +23,5 @@ Lastly, remember to eat healthily! Having a healthy diet is easier than you thin
 ### References
 * HealthHub. (n.d.). _Health benefits of exercise and physical activity_. Health Promotion Board. Retrieved March 1, 2023, from https://www.healthhub.sg/live-healthy/397/Physical%20Activity%20Benefits
 * HealthHub. (n.d.). _3 ways to improve sleep quality_. Health Promotion Board. Retrieved March 1, 2023, from https://www.healthhub.sg/live-healthy/1189/are-you-getting-quality-sleep
+* HealthHub. (n.d.). _Having a healthy diet is easier than you think_. Health Promotion Board. Retrieved March 1, 2023, from https://www.healthhub.sg/live-healthy/2082/balanced-diet-qqh-concept
 * Olson, E. J. (2023, February 21). _How many hours of sleep are enough for good health_. Mayo Clinic. Retrieved March 1, 2023, from https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/how-many-hours-of-sleep-are-enough/faq-20057898
