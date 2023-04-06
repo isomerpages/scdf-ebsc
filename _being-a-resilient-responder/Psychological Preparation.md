@@ -4,7 +4,6 @@ permalink: /being-a-resilient-responder/psych-prep/
 description: ""
 ---
 Being **psychologically** prepared goes hand-in-hand with being physically prepared, and it is useful! You will feel more confident in your role and be more prepared as you go the frontlines to save lives and property.
-![](/images/self-help%20portal%20graphics.png)
 
 ### What can you do *before* a response?
 Prepare yourself **mentally** to enhance your operational effectiveness!
