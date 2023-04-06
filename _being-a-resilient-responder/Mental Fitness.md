@@ -21,3 +21,9 @@ Keeping this rule in mind can help you remember that you control the majority of
 ### Tapping on Past Successes
 Lastly, in times of stress, you may be overwhelmed by negative emotions. Remembering how you have successfully conquered past obstacles can motivate you. This reminds you of your strengths and makes you realise that you are more capable than you originally believe.
 ![](/images/mental%20fitness%203.png)
+
+### References
+rces-publications/benefits-of-healthy-eating.htm
+* Elmer, J. (n.d.). _5 Ways to Stop Spiraling Negative Thoughts from Taking Control_. Healthline. Retrieved March 1, from [https://www.healthline.com/health/mental-health/stop-automatic-negative-thoughts ](https://www.healthline.com/health/mental-health/stop-automatic-negative-thoughts )
+* Harvard University. (n.d.) _Positive reframing and examining the evidence_. Retrieved March 1, from [https://sdlab.fas.harvard.edu/cognitive-reappraisal/positive-reframing-and-examining-evidence](https://sdlab.fas.harvard.edu/cognitive-reappraisal/positive-reframing-and-examining-evidence)
+* Exploring Your Mind. (2017, November 1). _The 90-10 Rule: Change Begins From Within_. Retrieved March 1, from [https://exploringyourmind.com/the-9010-rule-change-begins-from-within/](https://exploringyourmind.com/the-9010-rule-change-begins-from-within/)
