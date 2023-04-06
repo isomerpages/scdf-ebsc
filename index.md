@@ -16,10 +16,10 @@ sections:
       url: /being-a-resilient-responder
       key_highlights:
         - title: Being a resilient responder
-          description: x
+          description: Be operationally ready
           url: /being-a-resilient-responder
         - title: Managing Operational stress
-          description: x
+          description: Learn about possible stressors and their impacts
           url: /managing-operational-stress
         - title: Support Options
           description: Know the help available
