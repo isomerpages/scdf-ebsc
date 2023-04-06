@@ -15,3 +15,5 @@ Check out more strategies for emotional regulation on the page for [emotional fi
 You can also speak to someone and/or an EBSC staff if you feel that disengaging with your emotions while on the job is affecting you at work and at home.
 
 ### References
+* Psychology Today. (n.d.). *Compartmentalization*. [https://www.psychologytoday.com/us/basics/compartmentalization](https://www.psychologytoday.com/us/basics/compartmentalization)
+* Scadden, J. K. (2010, June 20). *EMS calls that touch a nerve*. EMS1. [https://www.ems1.com/health-wellness/articles/ems-calls-that-touch-a-nerve-app8blIan2fKNd46/](https://www.ems1.com/health-wellness/articles/ems-calls-that-touch-a-nerve-app8blIan2fKNd46/)
