@@ -35,4 +35,4 @@ These reactions are **normal** responses to the nature of our duties as emergenc
 You can also check out these pages on building your [physical](/being-a-resilient-responder/physical-fitness), [mental](/being-a-resilient-responder/mental-fitness), [emotional](/being-a-resilient-responder/emotional-fitness), and [social](/being-a-resilient-responder/social-fitness) fitness that can help you in dealing with your daily challenges and coping with the stress faced at work.
 
 ### References
-*
+* Gillette, H. (n.d.). _Stress Response: What’s the Difference Between Eustress and Distress?_ PsychCentral. Retrieved March 1, 2023, from [https://psychcentral.com/stress/eustress-vs-distress](https://psychcentral.com/stress/eustress-vs-distress)
