@@ -28,6 +28,6 @@ The last technique is visualisation. Similar to daydreaming, visualisation is ac
 Where do you feel most relaxed? Try out some fun ways of visualisation during your rest breaks at your station!
 
 ### References
-* Lakeside Chiropractic. (2017, October 10). _Muscle Relaxation Exercises_. Retrieved March 1, from [https://www.lakesidechiro.com.au/blog/muscle-relaxation-exercises-chiro-nearby#gsc.tab=0](https://www.lakesidechiro.com.au/blog/muscle-relaxation-exercises-chiro-nearby#gsc.tab=0)
-* Raypole, C. (2020, April 28). *How to Become the Boss of Your Emotions*. Healthline. Retrieved March 1, from [https://www.healthline.com/health/how-to-control-your-emotions](https://www.healthline.com/health/how-to-control-your-emotions)
-* Scott, E. (n.d.).  _Use Guided Imagery for Relaxation_. verywellmind. Retrieved March 1, from [https://www.verywellmind.com/use-guided-imagery-for-relaxation-3144606](https://www.verywellmind.com/use-guided-imagery-for-relaxation-3144606)
+* Lakeside Chiropractic. (2017, October 10). _Muscle Relaxation Exercises_. Retrieved March 1, 2023, from [https://www.lakesidechiro.com.au/blog/muscle-relaxation-exercises-chiro-nearby#gsc.tab=0](https://www.lakesidechiro.com.au/blog/muscle-relaxation-exercises-chiro-nearby#gsc.tab=0)
+* Raypole, C. (2020, April 28). *How to Become the Boss of Your Emotions*. Healthline. Retrieved March 1, 2023,from [https://www.healthline.com/health/how-to-control-your-emotions](https://www.healthline.com/health/how-to-control-your-emotions)
+* Scott, E. (n.d.).  _Use Guided Imagery for Relaxation_. verywellmind. Retrieved March 1, 2023, from [https://www.verywellmind.com/use-guided-imagery-for-relaxation-3144606](https://www.verywellmind.com/use-guided-imagery-for-relaxation-3144606)
