@@ -30,4 +30,4 @@ Fortunately, it is possible to break the cycle of negativity and challenge your 
 By reframing such thoughts into more helpful thoughts, you can break free from negative patterns of behaviours. Try out these [tools](/being-a-resilient-responder/mental-fitness) to challenge unhelpful thoughts and build your mental fitness! 
 
 ### References
-*
+* Psychology Tools. (n.d.). *Thoughts in CBT*. [https://www.psychologytools.com/self-help/thoughts-in-cbt/](https://www.psychologytools.com/self-help/thoughts-in-cbt/)
