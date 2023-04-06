@@ -26,23 +26,25 @@ sections:
           url: /support-options
   - infopic:
       title: Being a resilient responder
-      subtitle: x
-      description: x
-      button: x
+      subtitle: Be Operationally Ready
+      description: Be psychologically prepared and cope proactively with the stressors
+        faced at work.
+      button: Start practising strategies
       url: /being-a-resilient-responder
       alt: Image alt text
       image: /images/Ops Stress Photo2.jpg
   - infopic:
       title: Managing Operational Stress
-      subtitle: x
-      description: x
-      button: x
+      subtitle: Learn about possible stressors
+      description: Learning about possible stressors and their impacts is the first
+        step in managing stress.
+      button: "Start learning "
       url: /managing-operational-stress
       alt: Image alt text
       image: /images/Suppot Photo.jpg
   - infopic:
       title: Support Options
-      subtitle: KNOW YOUR RESOURCES
+      subtitle: Know the help available
       description: Know the in-house and external resources available to support you
         and your colleagues.
       button: START FINDING OUT MORE
