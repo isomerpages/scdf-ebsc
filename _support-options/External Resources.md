@@ -81,7 +81,7 @@ description: ""
 * 1800 210 2600 (Community Chest Hotline)
 
 **Family Services Centre**
-* [ https://www.msf.gov.sg/docs/default-source/default-document-library/list-of-fscs-in-operation.pdf?sfvrsn=a5c56cc_3]( https://www.msf.gov.sg/docs/default-source/default-document-library/list-of-fscs-in-operation.pdf?sfvrsn=a5c56cc_3)
+* [List of FSCs](https://www.msf.gov.sg/docs/default-source/default-document-library/list-of-fscs-in-operation.pdf?sfvrsn=a5c56cc_3) 
 
 
 ### Government Psychological and Psychiatric Services
