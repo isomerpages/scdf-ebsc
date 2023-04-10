@@ -8,9 +8,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Self-Help Portal
-      subtitle: "Welcome to EBSC's self-help portal - an online resource for SCDF's
-        first responders "
+      title: Resilient Responders
+      subtitle: A self-help portal for emergency responders
       background: /images/Banner3.jpg
       button: Get Started
       url: /being-a-resilient-responder
