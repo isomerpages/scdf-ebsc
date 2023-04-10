@@ -78,7 +78,7 @@ description: ""
 **Yayasan Mendaki**
 * 6245 5555 (Office hours)
 
-**ComCare **
+**ComCare**
 * 1800 222 0000 (Daily, 7am to 12am)
 
 **National Council of Social Service**
@@ -88,4 +88,27 @@ description: ""
 * [www.msf.gov.sg/fsclocator](www.msf.gov.sg/fsclocator)
 
 
-Government Psychological and Psychiatric Services
+### Government Psychological and Psychiatric Services
+**Psychology Services @ Ang Mo Kio Polyclinic, Hougang Polyclinic, Kallang Polyclinic, Toa Payoh Polyclinic, Woodlands Polyclinic and Yishun Polyclinic**
+* 6355 3000
+
+**Geylang Polyclinic (Community Wellness Clinic)**
+* 6389 2200
+
+**Changi General Hospital (Department of Psychological Medicine)**
+* 6788 8833
+
+**Khoo Teck Puat Hospital (Department of Psychological Medicine)**
+* 6555 8000
+
+**National University Hospital (Department of Psychological Medicine)**
+* 6908 2222
+
+**Ng Teng Fong General Hospital (Department of Psychiatry)**
+* 6908 2222
+
+**Sengkang General Hospital (Department of Psychiatry)**
+* 6930 5000
+
+**Singapore General Hospital (Department of Psychiatry)**
+* 6222 3322
