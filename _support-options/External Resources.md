@@ -30,10 +30,10 @@ description: ""
 * 6386 1928 (Office hours)
 
 **Mindline**
-* www.mindline.sg
+*[www.mindline.sg](https://www.mindline.sg)
 
 **MindSG**
-* [www.healthhub.sg/programmes/186/MindSG](www.healthhub.sg/programmes/186/MindSG)
+* [www.healthhub.sg/programmes/186/MindSG](https://www.healthhub.sg/programmes/186/MindSG)
 
 ### Youth Agencies
 **Touch Community Services**[www.mindline.sg](https://www.mindline.sg)
