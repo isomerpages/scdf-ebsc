@@ -30,7 +30,7 @@ description: ""
 * 6386 1928 (Office hours)
 
 **Mindline**
-*[www.mindline.sg](https://www.mindline.sg)
+* [www.mindline.sg](https://www.mindline.sg)
 
 **MindSG**
 * [www.healthhub.sg/programmes/186/MindSG](https://www.healthhub.sg/programmes/186/MindSG)
@@ -82,7 +82,7 @@ description: ""
 * 1800 210 2600 (Community Chest Hotline)
 
 **Family Services Centre**
-* [www.msf.gov.sg/fsclocator](https://www.msf.gov.sg/fsclocator)
+*[ https://www.msf.gov.sg/docs/default-source/default-document-library/list-of-fscs-in-operation.pdf?sfvrsn=a5c56cc_3]( https://www.msf.gov.sg/docs/default-source/default-document-library/list-of-fscs-in-operation.pdf?sfvrsn=a5c56cc_3)
 
 
 ### Government Psychological and Psychiatric Services
