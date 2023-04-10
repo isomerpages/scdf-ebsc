@@ -36,8 +36,7 @@ description: ""
 * [www.healthhub.sg/programmes/186/MindSG](https://www.healthhub.sg/programmes/186/MindSG)
 
 ### Youth Agencies
-**Touch Community Services**
-* TOUCHline Counselling 
+**Touch Community Services** (TOUCHline Counselling)
 * 1800 377 2252 (Office hours)
 
 **CARE Singapore**
