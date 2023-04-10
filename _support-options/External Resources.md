@@ -6,7 +6,7 @@ description: ""
 ### In addition to our SCDF resources, these external resources could also be contacted for more information or support
 
 ### For SCDF Personnel
-**WOG Counselling Helpline** (For Public)
+**WOG Counselling Helpline** (For Public Service)
 * 6865 9209
 
 **Parkway Counselling Helpline** (For Regulars)
