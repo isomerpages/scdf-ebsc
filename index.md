@@ -1,8 +1,7 @@
 ---
 layout: homepage
-title: Self-Help Portal
-description: An online resource for SCDF first responders which includes
-  psychoeducation and the promotion of post-traumatic growth
+title: Resilient Responders
+description: A self-help portal for emergency responders.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -37,7 +36,7 @@ sections:
       subtitle: Learn about possible stressors
       description: Learning about possible stressors and their impacts is the first
         step in managing stress.
-      button: "Start learning "
+      button: Start learning
       url: /managing-operational-stress
       alt: Image alt text
       image: /images/Suppot Photo.jpg
