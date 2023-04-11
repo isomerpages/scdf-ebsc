@@ -51,7 +51,7 @@ sections:
       image: /images/Tools Photo.jpg
   - resources:
       title: Infographics
-      button: VIEW PAST RESILIENCE MESSAGES
+      subtitle: Resources for you
   - infobar:
       title: "For your information:"
       description: This portal is curated for emergency responders in Singapore's
