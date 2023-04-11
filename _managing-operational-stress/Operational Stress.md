@@ -8,11 +8,11 @@ While many of us may associate stress with something negative, stress is **not**
 ![](/images/stress%20curve.png)
 
 ### What is Eustress?
-Eustress is the opposite of distress in terms of how you experience it. It is when stress **creates pleasant effects** and is often called **positive stress** (Johnson, 2021).
+Eustress is the opposite of distress in terms of how you experience it. It is when stress **creates pleasant effects** and is often called **positive stress**.
 ![](/images/eustress.png) *Note: This list is not exhaustive*
 
 ### What is Distress?
-Distress **causes unpleasant effects** such as worry and anxiety. It is often called **negative stress** because of how it may affect us (Johnson, 2021).
+On the other hand, distress **causes unpleasant effects** such as worry and anxiety. It is often called **negative stress** because of how it may affect us.
 ![](/images/distress.png)
 For more signs and symptoms of distress, you can check out the **BEEP model** under stress-related reactions below.
 
