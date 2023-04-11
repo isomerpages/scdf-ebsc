@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+[](/files/adapting%20to%20changes%20.pdf)
