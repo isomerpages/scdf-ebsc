@@ -8,7 +8,7 @@ links:
     collection: managing-operational-stress
   - title: Support Options
     collection: support-options
-  - title: Contact Us
-    url: /contact-us
   - title: Resources
     resource_room: true
+  - title: Contact Us
+    url: /contact-us
