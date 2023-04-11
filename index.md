@@ -49,12 +49,12 @@ sections:
       url: /support-options
       alt: Image alt text
       image: /images/Tools Photo.jpg
+  - resources:
+      title: Infographics
+      button: VIEW PAST RESILIENCE MESSAGES
   - infobar:
       title: "For your information:"
       description: This portal is curated for emergency responders in Singapore's
         context. Some information may be very contextualised and not applicable
         under different settings.
-  - resources:
-      title: Infographics
-      button: VIEW PAST RESILIENCE MESSAGES
 ---
