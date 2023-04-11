@@ -1,5 +1,5 @@
-title: Self-Help Portal
-url: https://www.ebscselfhelpportal.sg
+title: Resilient Responders
+url: https://www.resilientresponders.sg
 favicon: /images/EBSC logo.jpg
 colors:
   primary-color: "#4372d6"
@@ -15,8 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An online resource for SCDF first responders which includes
-  psychoeducation and the promotion of post-traumatic growth
+description: A self-help portal for emergency responders.
 permalink: none
 baseurl: ""
 exclude:
