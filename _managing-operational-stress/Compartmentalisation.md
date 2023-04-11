@@ -12,7 +12,7 @@ These are some strategies that you can use to **regulate your emotions and stres
 ![](/images/compartmentalisation%202.png)
 Check out more strategies for emotional regulation on the page for [emotional fitness](/being-a-resilient-responder/emotional-fitness)!
 
-You can also speak to someone and/or an EBSC staff if you feel that disengaging with your emotions while on the job is affecting you at work and at home.
+You can also speak to someone and/or an EBSC staff if you feel that disengaging with your emotions while on the job is affecting you at work and/or at home.
 
 ### References
 * Psychology Today. (n.d.). *Compartmentalization*. [https://www.psychologytoday.com/us/basics/compartmentalization](https://www.psychologytoday.com/us/basics/compartmentalization)
