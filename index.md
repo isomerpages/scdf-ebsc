@@ -54,4 +54,7 @@ sections:
       description: This portal is curated for emergency responders in Singapore's
         context. Some information may be very contextualised and not applicable
         under different settings.
+  - resources:
+      title: Infographics
+      button: VIEW PAST RESILIENCE MESSAGES
 ---
