@@ -33,4 +33,4 @@ Take some time to reflect on the role emotions play in your life:
  To find out more about how your thoughts can influence your emotions, and subsequently your actions, you can check out the page on [automatic thoughts](/managing-operational-stress/automatic-thoughts).
 
 ### References
-* Psychology Tools. (n.d.). *A Guide to Emotions.* **[https://www.psychologytools.com/self-help/a-guide-to-emotions/](https://www.psychologytools.com/self-help/a-guide-to-emotions/)**
+* Psychology Tools. (n.d.). *A Guide to Emotions.* [https://www.psychologytools.com/self-help/a-guide-to-emotions/](https://www.psychologytools.com/self-help/a-guide-to-emotions/)
