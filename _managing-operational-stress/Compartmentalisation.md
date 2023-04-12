@@ -6,7 +6,8 @@ description: ""
 ### What is Compartmentalisation?
 Compartmentalisation refers to a defense mechanism where we **mentally separate** any conflicting thoughts, emotions, or events to avoid the discomfort of contradiction. 
 
-![](/images/compartmentalisation%201.png)
+When we are handling a few problems simultaneously, it can be challenging to stay focused to complete the necessary tasks. Putting a problem on hold by compartmentalisation can help us to take action.
+![](/images/compartmentalisation%201%20(1).png)
 Although disengaging with our emotions while on the job can be a valuable tool sometimes, it is **not** a long-term solution. 
 These are some strategies that you can use to **regulate your emotions and stress** while you continue carrying out your work as an emergency responder on the frontlines:
 ![](/images/compartmentalisation%202.png)
