@@ -5,7 +5,7 @@ description: A self-help portal for emergency responders.
 image: /images/isomer-logo.svg
 permalink: /
 notification: If you need to speak to someone immediately, you can call
-  Samaritans of Singapore at 1-767 or the SCDF Counselling Helpling at
+  Samaritans of Singapore at 1-767 or the SCDF 24/7 Counselling Helpline at
   1800-286-6666 (for SCDF personnel)
 sections:
   - hero:
