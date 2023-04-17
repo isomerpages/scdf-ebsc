@@ -7,7 +7,7 @@ description: ""
 For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 
 ### Suicide Crisis 
-**Samaritans of Singapore (SOS)**
+**[Samaritans of Singapore (SOS)](https://www.sos.org.sg/)**
 * 1-767 (24-hour hotline)
 * 9151 1767 (24-hour CareText)
 
