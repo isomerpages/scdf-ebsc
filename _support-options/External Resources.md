@@ -67,7 +67,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 **[Yayasan Mendaki](https://www.mendaki.org.sg/)**
 * 6245 5555 (Office hours)
 
-**ComCare**
+**[ComCare](https://www.msf.gov.sg/what-we-do/comcare)**
 * 1800 222 0000 (Daily, 7am to 12am)
 
 **National Council of Social Service**
