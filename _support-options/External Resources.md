@@ -35,7 +35,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 **[CARE Singapore](https://care.sg/)**
 * 6538 3481 (Office hours)
 
-**Community Health Assessment Team (CHAT)**
+**[Community Health Assessment Team (CHAT)](https://www.imh.com.sg/CHAT/Pages/default.aspx)**
 * 6493 6500 / 6493 6501 (Tue to Thur, 1pm to 8pm)
 
 ### Addiction
