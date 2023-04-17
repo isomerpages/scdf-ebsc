@@ -16,7 +16,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * 6389 2222 (24-hour mental health helpline)
 * 6389 2000 (General enquiries)
 
-**Counselling and Care Centre**
+**[Counselling and Care Centre](https://counsel.org.sg/)**
 * 6536 6366 (Office hours)
 
 **Silver Ribbon**
