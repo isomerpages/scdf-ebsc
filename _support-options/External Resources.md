@@ -39,7 +39,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * 6493 6500 / 6493 6501 (Tue to Thur, 1pm to 8pm)
 
 ### Addiction
-**National Addiction Management Services (NAMS)**
+**[National Addiction Management Service (NAMS)](https://www.nams.sg/Pages/default.aspx)**
 * 6732 6837 (All addictions: Daily, 830am to 9pm)
 
 * 1800 666 8668 (Gambling helpline: Daily, 10am to 7pm)
