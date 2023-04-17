@@ -19,7 +19,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 **[Counselling and Care Centre](https://counsel.org.sg/)**
 * 6536 6366 (Office hours)
 
-**Silver Ribbon**
+**[Silver Ribbon](https://www.silverribbonsingapore.com/index.html)**
 * 6386 1928 (Office hours)
 
 **Mindline**
