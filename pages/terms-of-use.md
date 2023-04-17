@@ -2,7 +2,6 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-
 ### **Terms on the Use of the Self-Help Portal**
 
 #### **TERMS OF USE**
