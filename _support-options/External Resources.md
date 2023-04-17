@@ -47,7 +47,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 **[Singapore Anti-Narcotics Association (SANA)](https://www.sana.org.sg/)**
 * 6732 1122 (Office hours)
 
-**We Care Community Services**
+**[We Care Community Services](https://www.wecare.org.sg/)**
 * 3165 8017 (Mon to Fri, 10am to 7pm)
 
 ### LGBT/Gender Identity
