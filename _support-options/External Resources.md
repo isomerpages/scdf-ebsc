@@ -85,7 +85,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 **[Geylang Polyclinic (Community Wellness Clinic)](https://www.imh.com.sg/Clinical-Services/Outpatient-Clinics/Pages/Community-Wellness-Clinic.aspx)**
 * 6389 2200
 
-**Changi General Hospital (Department of Psychological Medicine)**
+**[Changi General Hospital (Department of Psychological Medicine)](https://www.cgh.com.sg/patient-care/specialties-services/psychological-medicine)**
 * 6788 8833
 
 **[Khoo Teck Puat Hospital (Department of Psychological Medicine)](https://www.ktph.com.sg/services/medical-specialties/psychological-medicine)**
