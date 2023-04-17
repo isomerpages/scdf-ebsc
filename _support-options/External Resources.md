@@ -29,7 +29,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * [www.healthhub.sg/programmes/186/MindSG](https://www.healthhub.sg/programmes/186/MindSG)
 
 ### Youth Agencies
-**Touch Community Services** (TOUCHline Counselling)
+**[Touch Community Services](https://www.touch.org.sg/)** (TOUCHline Counselling)
 * 1800 377 2252 (Office hours)
 
 **CARE Singapore**
