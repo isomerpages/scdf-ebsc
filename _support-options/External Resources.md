@@ -70,7 +70,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 **[ComCare](https://www.msf.gov.sg/what-we-do/comcare)**
 * 1800 222 0000 (Daily, 7am to 12am)
 
-**National Council of Social Service**
+**[National Council of Social Service](https://www.comchest.gov.sg/)**
 * 1800 210 2600 (Community Chest Hotline)
 
 **Family Services Centre**
