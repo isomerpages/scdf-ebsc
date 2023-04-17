@@ -35,7 +35,7 @@ sections:
       title: Managing Operational Stress
       subtitle: Learn about possible stressors
       description: Learning about possible stressors and their impacts is the first
-        step in managing stress.
+        step in managing stress and increasing resilience.
       button: Start learning
       url: /managing-operational-stress
       alt: Image alt text
