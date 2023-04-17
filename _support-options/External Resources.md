@@ -12,7 +12,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * 9151 1767 (24-hour CareText)
 
 ### General Resources for Mental Health
-**Institute of Mental Health (IMH)**
+**[Institute of Mental Health (IMH)](https://www.imh.com.sg/Pages/default.aspx)**
 * 6389 2222 (24-hour mental health helpline)
 * 6389 2000 (General enquiries)
 
