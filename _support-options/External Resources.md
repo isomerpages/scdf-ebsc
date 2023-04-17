@@ -64,7 +64,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 **[Singapore Indian Development Association (SINDA)](https://www.sinda.org.sg/)**
 * 1800 295 3333 (Office hours)
 
-**Yayasan Mendaki**
+**[Yayasan Mendaki](https://www.mendaki.org.sg/)**
 * 6245 5555 (Office hours)
 
 **ComCare**
