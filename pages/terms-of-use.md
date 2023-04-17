@@ -2,12 +2,46 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
 
-#### **General Legal Information**
+### **Terms on the Use of the Self-Help Portal**
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+#### **TERMS OF USE**
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+Thank you for visiting the self-help portal (“Portal”). By accessing and using any part of this Portal, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Portal.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+**GENERAL**
+
+*   These Terms of Use may be changed from time to time. All changes will be posted on this page, and your use of this Portal after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
+
+**PROPRIETARY RIGHTS**
+    
+*   The materials located on the Portal including the graphics, images, statistical data, reports, charts, graphs, information and documentation (the “Contents”), are protected by copyright, trademark and other intellectual property rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by EBSC.
+    
+
+**PRIVACY POLICY**
+
+*   Click here to review this Portal’s **[Privacy Statement](/privacy)**.
+
+**RESTRICTIONS ON USE OF CONTENTS**
+
+*   Except as otherwise provided, the Contents of this Website shall not be reproduced, republished, uploaded, posted, transmitted or distributed in any way, without prior permission of EBSC.
+    
+*   Modification of any of the Contents or use of the Contents for any other purpose will be a violation of EBSC's copyright and other intellectual property rights. Graphics and images on this Website are protected by copyright and may not be reproduced or appropriated in any manner without written permission of EBSC.
+    
+
+**DISCLAIMER OF WARRANTIES AND LIABILITY**
+
+*   The Contents of this Portal are provided on an “as is” basis without warranties of any kind. To the fullest extent permitted by law, EBSC does not warrant and hereby disclaims any warranty:
+    *   as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Portal; or
+        
+    *   that the Contents available through this Portal or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Portal and the server is and will be free of all viruses and/or other harmful elements.
+        
+*   EBSC shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Portal, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Portal.
+
+**RIGHT OF ACCESS**
+
+*   EBSC reserves all rights to deny or restrict access to this Portal to any particular person, or to block access from a particular Internet address to this Portal, at any time, without ascribing any reasons whatsoever.
+
+**GOVERNING LAW**
+
+*   These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
