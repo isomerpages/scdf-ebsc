@@ -82,7 +82,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * [https://www.nhgp.com.sg/](https://www.nhgp.com.sg/)
 * 6355 3000
 
-**Geylang Polyclinic (Community Wellness Clinic)**
+**[Geylang Polyclinic (Community Wellness Clinic)](https://www.imh.com.sg/Clinical-Services/Outpatient-Clinics/Pages/Community-Wellness-Clinic.aspx)**
 * 6389 2200
 
 **Changi General Hospital (Department of Psychological Medicine)**
