@@ -4,14 +4,7 @@ permalink: /support-options/external-resources/
 description: ""
 ---
 ### In addition to our SCDF resources, these external resources could also be contacted for more information or support
-
-### For SCDF Personnel
-**WOG Counselling Helpline** (For Public Service)
-* 6865 9209
-
-**Parkway Counselling Helpline** (For Regulars)
-* 1800 738 9595
-(till 30 June 2023)
+For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 
 ### Suicide Crisis 
 **Samaritans of Singapore (SOS)**
