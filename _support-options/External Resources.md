@@ -32,7 +32,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 **[Touch Community Services](https://www.touch.org.sg/)** (TOUCHline Counselling)
 * 1800 377 2252 (Office hours)
 
-**CARE Singapore**
+**[CARE Singapore](https://care.sg/)**
 * 6538 3481 (Office hours)
 
 **Community Health Assessment Team (CHAT)**
