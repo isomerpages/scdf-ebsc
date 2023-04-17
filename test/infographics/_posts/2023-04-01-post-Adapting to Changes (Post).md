@@ -12,4 +12,4 @@ Being adaptable to change is an important part of being resilient. Find out how 
 
 ![](/images/adapting%20to%20changes%20infographic.png)
 
-[Download the PDF file here ](![](/images/psych%20prep%202%20(1).png))
+[Download PDF file here ](/files/adapting%20to%20changes%20.pdf)
