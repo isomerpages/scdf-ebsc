@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+Did you know that conflict is a natural part of human interactions, including at work?
+
+Here are some tips to manage it positively!
