@@ -88,7 +88,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 **Changi General Hospital (Department of Psychological Medicine)**
 * 6788 8833
 
-**Khoo Teck Puat Hospital (Department of Psychological Medicine)**
+**[Khoo Teck Puat Hospital (Department of Psychological Medicine)](https://www.ktph.com.sg/services/medical-specialties/psychological-medicine)**
 * 6555 8000
 
 **National University Hospital (Department of Psychological Medicine)**
