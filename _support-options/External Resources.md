@@ -58,7 +58,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * 6254 0212 (Office hours)
 
 ### Community Services 
-**Chinese Development Assistance Council (CDAC)**
+**[Chinese Development Assistance Council (CDAC)](https://www.cdac.org.sg/en/)**
 * 6841 4889 (Office hours)
 
 **Singapore Indian Development Association (SINDA)**
