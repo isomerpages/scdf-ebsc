@@ -54,7 +54,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 **[Oogachaga](https://oogachaga.com/)**
 * 8592 0609 (Whatsapp counselling: Tue to Thur, 7pm to 10pm; Sat, 2pm to 5pm)
 
-**Gayhealth.sg**
+**[Gayhealth.sg](https://www.gayhealth.sg/)**
 * 6254 0212 (Office hours)
 
 ### Community Services 
