@@ -61,7 +61,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 **[Chinese Development Assistance Council (CDAC)](https://www.cdac.org.sg/en/)**
 * 6841 4889 (Office hours)
 
-**Singapore Indian Development Association (SINDA)**
+**[Singapore Indian Development Association (SINDA)](https://www.sinda.org.sg/)**
 * 1800 295 3333 (Office hours)
 
 **Yayasan Mendaki**
