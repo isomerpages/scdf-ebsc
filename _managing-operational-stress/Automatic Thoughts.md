@@ -27,6 +27,8 @@ After attending to a challenging or routine call, when doing your work supportin
 ### Helpful Thoughts
 Fortunately, it is possible to break the cycle of negativity and challenge your unhelpful thoughts.
 
+
+
 By reframing such thoughts into more helpful thoughts, you can break free from negative patterns of behaviours. Try out these [tools](/being-a-resilient-responder/mental-fitness) to challenge unhelpful thoughts and build your mental fitness! 
 
 ### References
