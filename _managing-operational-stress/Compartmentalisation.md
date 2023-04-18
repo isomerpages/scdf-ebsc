@@ -9,11 +9,13 @@ Compartmentalisation refers to a defense mechanism where we **mentally separate*
 When we are handling a few problems simultaneously, it can be challenging to stay focused to complete the necessary tasks. Putting a problem on hold by compartmentalising and focusing on the task at hand can help us to take action.
 ![](/images/compartmentalisation%201%20(3).png)
 Although disengaging with our emotions while on the job can be a valuable tool sometimes, it is **not** a long-term solution. 
-These are some strategies that you can use to **regulate your emotions** and **[challenge your unhelpful thoughts](/being-a-resilient-responder/mental-fitness)** while you continue carrying out your work as an emergency responder on the frontlines:
-![](/images/compartmentalisation%202.png)
-Check out more strategies for emotional regulation on the page for [emotional fitness](/being-a-resilient-responder/emotional-fitness)!
+These are some strategies that you can use to **regulate your emotions** while you continue carrying out your work as an emergency responder on the frontlines: 
+![](/images/compartmentalisation%202.png) 
+Check out more strategies for emotional regulation on the page for [emotional fitness](/being-a-resilient-responder/emotional-fitness).
 
-You can also speak to someone and/or an EBSC staff if you feel that disengaging with your emotions while on the job is affecting you at work and/or at home.
+Additionally, you can also focus on the task at hand by **[challenging any unhelpful thoughts](/being-a-resilient-responder/mental-fitness)** that 'pop' into your mind when you are on the job. 
+
+Lastly, you can speak to someone and/or an EBSC staff if you feel that disengaging with your emotions while on the job is affecting you at work and/or at home.
 
 ### References
 * Psychology Today. (n.d.). *Compartmentalization*. [https://www.psychologytoday.com/us/basics/compartmentalization](https://www.psychologytoday.com/us/basics/compartmentalization)
