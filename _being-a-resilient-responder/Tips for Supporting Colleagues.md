@@ -34,7 +34,7 @@ It is **normal** to feel that seeking support can be viewed by others as being '
 
 In addition to SCDF's counselling support, there are various in-house and external resources that are available for you to refer your colleagues to. Click [here](/support-options/) for an overview of the support options available.
 
-**[You have come to the last page of the section on Being a Resilient Responder. Check out the other section on [Managing Operational Stress](/managing-operational-stress)!]**
+##### **[You have come to the last page of the section on Being a Resilient Responder. Check out the other section on [Managing Operational Stress](/managing-operational-stress)!]**
 
 ### References
 * Horan, K. A., Marks, M., Ruiz, J., Bowers, C., & Cunningham, A. (2021). Here for My Peer: The Future of First Responder Mental Health. _International journal of environmental research and public health_, _18_(21), 11097. [https://doi.org/10.3390/ijerph182111097](https://doi.org/10.3390/ijerph182111097)
