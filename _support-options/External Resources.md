@@ -39,7 +39,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * 6493 6500 / 6493 6501 (Tue to Thur, 1pm to 8pm)
 * CHAT provides mental health asssessments and online support via webCHAT.
 
-### Addiction
+### Addiction Resources
 **[National Addiction Management Service (NAMS)](https://www.nams.sg/Pages/default.aspx)**
 * 6732 6837 (All addictions: Daily, 830am to 9pm)
 
@@ -53,14 +53,14 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 **[We Care Community Services](https://www.wecare.org.sg/)**
 * 3165 8017 (Mon to Fri, 10am to 7pm)
 
-### LGBT/Gender Identity
+### LGBT/Gender Identity Resources
 **[Oogachaga](https://oogachaga.com/)**
 * 8592 0609 (Whatsapp counselling: Tue to Thur, 7pm to 10pm; Sat, 2pm to 5pm)
 
 **[Gayhealth.sg](https://www.gayhealth.sg/)**
 * 6254 0212 (Office hours)
 
-### Community Services 
+### Community Resources
 **[Chinese Development Assistance Council (CDAC)](https://www.cdac.org.sg/en/)**
 * 6841 4889 (Office hours)
 
