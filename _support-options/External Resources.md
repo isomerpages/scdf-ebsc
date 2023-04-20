@@ -71,7 +71,8 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * 6245 5555 (Office hours)
 
 **[ComCare](https://www.msf.gov.sg/what-we-do/comcare)**
-* 1800 222 0000 (Daily, 7am to 12am)
+* 1800 222 0000 (ComCare Call Hotline, Daily, 7am to 12am)
+* [SupportGoWhere ComCare SMTA online application](https://supportgowhere.life.gov.sg/schemes/COMCARE-SMTA/comcare-short-to-medium-term-assistance-smta ) (Application portal for financial assistance)
 
 **[National Council of Social Service](https://www.comchest.gov.sg/)**
 * 1800 210 2600 (Community Chest Hotline)
