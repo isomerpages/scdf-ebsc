@@ -43,6 +43,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 **[National Addiction Management Service (NAMS)](https://www.nams.sg/Pages/default.aspx)**
 * 6732 6837 (All addictions: Daily, 830am to 9pm)
 
+**[National Council on Problem Gambling](https://www.ncpg.org.sg/)** 
 * 1800 666 8668 (Gambling helpline: Daily, 10am to 7pm)
 
 **[Singapore Anti-Narcotics Association (SANA)](https://www.sana.org.sg/)**
