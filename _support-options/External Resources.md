@@ -47,6 +47,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * 1800 666 8668 (Gambling helpline: Daily, 10am to 7pm)
 
 **[Singapore Anti-Narcotics Association (SANA)](https://www.sana.org.sg/)**
+* Step-Up Centre (A walk-in facility)
 * 6732 1122 (Office hours)
 
 **[We Care Community Services](https://www.wecare.org.sg/)**
