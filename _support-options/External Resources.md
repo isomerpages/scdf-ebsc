@@ -36,7 +36,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * CHAT provides mental health asssessments and online support via webCHAT
 * 6493 6500 / 6493 6501 (Tue to Thur, 1pm to 8pm)
 
-**[Touch Community Services](https://www.touch.org.sg/)** (TOUCHline Counselling)
+**[Touch Community Services (TOUCHline Counselling)](https://www.touch.org.sg/)** 
 * 1800 377 2252 (Office hours)
 
 ### Addiction Resources
