@@ -33,7 +33,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * 1800 377 2252 (Office hours)
 
 **[CARE Singapore](https://care.sg/)**
-* 6978 2728 (Hear4U helpline via WhatsApp)
+* 6978 2728 (Hear4U helpline via WhatsApp: Mon to Fri, 10am to 5pm)
 
 **[Community Health Assessment Team (CHAT)](https://www.imh.com.sg/CHAT/Pages/default.aspx)**
 * CHAT provides mental health asssessments and online support via webCHAT
