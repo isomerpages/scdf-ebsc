@@ -37,7 +37,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 
 **[Community Health Assessment Team (CHAT)](https://www.imh.com.sg/CHAT/Pages/default.aspx)**
 * 6493 6500 / 6493 6501 (Tue to Thur, 1pm to 8pm)
-* CHAT provides mental health asssessments and online support via webCHAT.
+* CHAT provides mental health asssessments and online support via webCHAT
 
 ### Addiction Resources
 **[National Addiction Management Service (NAMS)](https://www.nams.sg/Pages/default.aspx)**
