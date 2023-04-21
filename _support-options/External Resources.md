@@ -82,10 +82,6 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 
 
 ### Government Psychological and Psychiatric Services
-**Psychology Services @ Ang Mo Kio Polyclinic, Hougang Polyclinic, Kallang Polyclinic, Toa Payoh Polyclinic, Woodlands Polyclinic and Yishun Polyclinic**
-* [https://www.nhgp.com.sg/](https://www.nhgp.com.sg/)
-* 6355 3000
-
 **[Geylang Polyclinic (Community Wellness Clinic)](https://www.imh.com.sg/Clinical-Services/Outpatient-Clinics/Pages/Community-Wellness-Clinic.aspx)**
 * 6389 2200
 
