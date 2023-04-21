@@ -29,15 +29,15 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * [www.healthhub.sg/programmes/186/MindSG](https://www.healthhub.sg/programmes/186/MindSG)
 
 ### Youth Resources
-**[Touch Community Services](https://www.touch.org.sg/)** (TOUCHline Counselling)
-* 1800 377 2252 (Office hours)
-
 **[CARE Singapore](https://care.sg/)**
 * 6978 2728 (Hear4U helpline via WhatsApp: Mon to Fri, 10am to 5pm)
 
 **[Community Health Assessment Team (CHAT)](https://www.imh.com.sg/CHAT/Pages/default.aspx)**
 * CHAT provides mental health asssessments and online support via webCHAT
 * 6493 6500 / 6493 6501 (Tue to Thur, 1pm to 8pm)
+
+**[Touch Community Services](https://www.touch.org.sg/)** (TOUCHline Counselling)
+* 1800 377 2252 (Office hours)
 
 ### Addiction Resources
 **[National Addiction Management Service (NAMS)](https://www.nams.sg/Pages/default.aspx)**
@@ -54,11 +54,11 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * 3165 8017 (Mon to Fri, 10am to 7pm)
 
 ### LGBT/Gender Identity Resources
-**[Oogachaga](https://oogachaga.com/)**
-* 8592 0609 (Whatsapp counselling: Tue to Thur, 7pm to 10pm; Sat, 2pm to 5pm)
-
 **[Gayhealth.sg](https://www.gayhealth.sg/)**
 * 6254 0212 (Office hours)
+
+**[Oogachaga](https://oogachaga.com/)**
+* 8592 0609 (Whatsapp counselling: Tue to Thur, 7pm to 10pm; Sat, 2pm to 5pm)
 
 ### Community Resources
 **[Chinese Development Assistance Council (CDAC)](https://www.cdac.org.sg/en/)**
