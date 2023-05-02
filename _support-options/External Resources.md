@@ -78,8 +78,8 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 **[National Council of Social Service](https://www.comchest.gov.sg/)**
 * 1800 210 2600 (Community Chest Hotline)
 
-**[Family Service Centres](https://www.msf.gov.sg/our-services/directories)**
-* [List of FSCs](https://www.msf.gov.sg/docs/default-source/default-document-library/list-of-fscs-in-operation.pdf?sfvrsn=a5c56cc_3) 
+**[MSF Directories](https://www.msf.gov.sg/our-services/directories)**
+* Search for Family Service Centres near your location 
 
 
 ### Government Psychological and Psychiatric Services
