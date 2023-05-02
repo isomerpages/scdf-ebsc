@@ -86,7 +86,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * 6389 2200
 
 **[Changi General Hospital (Department of Psychological Medicine)](https://www.cgh.com.sg/patient-care/specialties-services/psychological-medicine)**
-* 6788 8833
+* 6850 3333 (CGH Appointment Centre)
 
 **[Khoo Teck Puat Hospital (Department of Psychological Medicine)](https://www.ktph.com.sg/services/medical-specialties/psychological-medicine)**
 * 6555 8000
