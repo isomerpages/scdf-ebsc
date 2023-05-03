@@ -10,7 +10,7 @@ For example, is it worth the effort to adopt a healthier coping strategy instead
 ### Step 1: ![](/images/motivation%201%20(larger).png)
 ### Step 2: ![](/images/motivation%202.png)
 
-### Example: Should I start building my social support system by reaching out to some friends?![](/images/motivation%20example%20(larger).png)
+### Example: Should I start building my social support system by reaching out to some friends?![](/images/motivation%20example%20(1)%20larger.png)
 If the value of the Beneficial Index for pursuing your decision is positive, it is worth going ahead with your choice! 
 * In this example, it is indeed worth it to build your support system. A strong social support system helps you to cope better with stress so that you can face challenges more confidently. 
 
