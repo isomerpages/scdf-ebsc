@@ -16,11 +16,11 @@ When you are faced with challenges which may seem quite daunting at times, it al
 In psychology, there is something called the **90-10 rule** which says that the way you react to events is much more influential than the events themselves - only 10% of your life is determined by what happens to you, the other 90% is related to how you react to the 10%.
 
 Keeping this rule in mind can help you remember that you control the majority of your life! Here are some ways you can apply the 90-10 rule:
-![](/images/mental%20fitness%202.png)
+![](/images/mental%20fitness%202%20(larger).png)
 
 ### Tapping on Past Successes
 Lastly, in times of stress, you may be overwhelmed by negative emotions. Remembering how you have successfully conquered past obstacles can motivate you. This reminds you of your strengths and makes you realise that you are more capable than you originally believe.
-![](/images/mental%20fitness%203.png)
+![](/images/mental%20fitness%203%20(larger).png)
 
 ### References
 * Elmer, J. (n.d.). _5 Ways to Stop Spiraling Negative Thoughts from Taking Control_. Healthline. Retrieved March 1, 2023, from [https://www.healthline.com/health/mental-health/stop-automatic-negative-thoughts ](https://www.healthline.com/health/mental-health/stop-automatic-negative-thoughts )
