@@ -15,12 +15,6 @@ What are some signs that our colleagues are in distress?
 ### Helping Our Colleagues
 Following the identification of distressed colleagues, you are strongly encouraged to engage them to gain a better understanding of their concerns and render appropriate assistance.
 
-What is **helping**?
-* Supporting a person to
-* a) Function effectively
-* b) Deal with difficulties
-* c) Gain awareness to cope
-
 Here are 5 steps to help your colleagues: **A**ttending, **L**istening, **E**ffective Questioning, **R**eferral, and **T**imely Intervention (**A-L-E-R-T**)
 ![](/images/tips%20alert%201(1).png)![](/images/tips%20alert%201%20(2).png)![](/images/tips%20alert%201%20(3).png)
 
