@@ -4,7 +4,7 @@ permalink: /being-a-resilient-responder/supporting-colleagues/
 description: ""
 ---
 ### Identifying Distressed Colleagues
-From time to time, we may encounter stressful challenges during our course of work. While some stress can motivate us to achieve our goals, too much stress (i.e., distress) can be overwhelming and hinder daily functioning.
+From time to time, we may encounter stressful challenges during our course of work as first responders or in supporting the organisation. While some stress can motivate us to achieve our goals, too much stress (i.e., distress) can be overwhelming and hinder daily functioning.
 
 There are 4 general types of distress: **B**ehavioural, **E**motional, **E**fficiency at work, and **P**hysical (the acronym of **B-E-E-P**) and it is important that we recognise the warning signs of distress and respond with appropriate support.
 
