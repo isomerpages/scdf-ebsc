@@ -7,7 +7,7 @@ When you are feeling overwhelmed, the following strategies can help you to regul
 
 ### Shift Your Focus of Attention
 The first technique is to shift your focus of attention away from the emotions you are experiencing – physically, or mentally. This gives yourself some time and space to slow down first, and think through the situation more carefully later on.
-![](/images/emotional%20fitness%201%20(larger).png)![](/images/emotional%20fitness%204b%20(larger).png)
+![](/images/emotional%20fitness%201%20(larger).png)
 
 ### Deep Breathing
 Another technique is deep breathing, which can help you quicklycontrol your emotional responses when you feel overwhelmed by giving you time to calm down and relook at the situation. 
@@ -25,6 +25,7 @@ Alternatively, you can engage in PMR while lying down. Try doing this when resti
 ### Visualisation
 The last technique is visualisation. Similar to daydreaming, visualisation is accomplished through using your imagination.
 ![](/images/emotional%20fitness%204a%20(larger).png)
+![](/images/emotional%20fitness%204b%20(larger).png)
 Where do you feel most relaxed? Try out some fun ways of visualisation during your rest breaks at your station!
 
 ### References
