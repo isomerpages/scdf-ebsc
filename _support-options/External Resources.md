@@ -47,8 +47,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * 1800 666 8668 (Gambling helpline: Daily, 10am to 7pm)
 
 **[Singapore Anti-Narcotics Association (SANA)](https://www.sana.org.sg/)**
-* Step-Up Centre (A walk-in facility)
-* 6732 1122 (Office hours)
+* 6732 1122 (Step-Up Centre - A walk-in facility: Office hours)
 
 **[We Care Community Services](https://www.wecare.org.sg/)**
 * 3165 8017 (Mon to Fri, 10am to 7pm)
@@ -58,7 +57,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * 6254 0212 (Office hours)
 
 **[Oogachaga](https://oogachaga.com/)**
-* 8592 0609 (Whatsapp counselling: Tue to Thur, 7pm to 10pm; Sat, 2pm to 5pm)
+* 8592 0609 (WhatsApp counselling: Tue to Thur, 7pm to 10pm; Sat, 2pm to 5pm)
 
 ### Community Resources
 **[Chinese Development Assistance Council (CDAC)](https://www.cdac.org.sg/en/)**
@@ -71,9 +70,9 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * 6245 5555 (Office hours)
 
 **[ComCare](https://www.msf.gov.sg/what-we-do/comcare)**
-* 1800 222 0000 (ComCare Call Hotline, Daily, 7am to 12am)
+* 1800 222 0000 (ComCare Call Hotline: Daily, 7am to 12am)
 * [SupportGoWhere ComCare SMTA online application](https://supportgowhere.life.gov.sg/schemes/COMCARE-SMTA/comcare-short-to-medium-term-assistance-smta ) (Application portal for financial assistance)
-* National Anti-Violence and Sexual Harassment Helpline: 1800 777 0000
+* 1800 777 0000 (National Anti-Violence and Sexual Harassment Helpline)
 
 **[National Council of Social Service](https://www.comchest.gov.sg/)**
 * 1800 210 2600 (Community Chest Hotline)
