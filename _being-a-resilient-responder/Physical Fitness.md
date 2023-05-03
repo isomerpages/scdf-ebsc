@@ -7,7 +7,7 @@ These are some strategies that you can adopt to manage your stress and improve y
 
 ### Exercise
 The first strategy is exercise. Check out come of its benefits:
-![](/images/physical%20fitness%203.png)
+![](/images/physical%20fitness%203%20(larger).png)
 
 ### Sleep
 Next, part of the process of becoming fitter and healthier lies in recovery. This involves ensuring you get the recommended amount of at least 7 hours of sleep on your rest days, so you have sufficient energy for the next day.
@@ -18,7 +18,7 @@ For the steps on deep breathing and progressive muscle relaxation, check out the
 
 ### Healthy Eating
 Lastly, remember to eat healthily! Having a healthy diet is easier than you think. All you have to do is "Quarter, Quarter, Half" your plate - 1/4 plate of wholegrains or wholemeal foods, 1/4 plate of protein such as lean cuts of meat, poultry, fish, seafood, eggs, and dairy products, as well as plant-based protein such as toufu, nuts, beans, and legumes. The remaining 1/2 plate should be for different types of fruits and vegetables.
-![](/images/physical%20fitness%201.png)
+![](/images/physical%20fitness%201%20(larger).png)
 
 ### References
 * Centers for Disease Control and Prevention. (n.d.). *Benefits of Healthy Eating*. Retrieved March 1, 2023, from [https://www.cdc.gov/nutrition/resources-publications/benefits-of-healthy-eating.html](https://www.cdc.gov/nutrition/resources-publications/benefits-of-healthy-eating.html)
