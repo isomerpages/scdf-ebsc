@@ -17,11 +17,11 @@ In your units/divisions, you will have to work with others in teams. When your t
 
 ### Your Support System
 Lastly, having a strong social support system is important to having a good quality of life. Having someone you can trust and open up to is a gift. Just talking to them can be very helpful! You can seek support from your family, friends, supervisors, and fellow peers going through the same experience as you.
-![](/images/social%20support.png)
+![](/images/social%20support%20(larger).png)
 Having a strong social support system requires some effort, such as by showing those you care about that you have time for them and are interested in their lives. Take time to invest in your existing relationships and grow your support!
-![](/images/grow%20social%20support.png)
+![](/images/grow%20social%20support%20(larger).png)
 What are you waiting for? Identify 3 people who are important to you and make an effort to reach out to them this week, even when you are not struggling.
-![](/images/social%20support%202%20(2).png)
+![](/images/social%20support%202%20(larger)%20(1).png)
 
 ### References
 * U.S. Department of Veteran Affairs. (2013). *PTSD Coach Online*. [https://www.ptsd.va.gov/apps/ptsdcoachonline/default.htm](https://www.ptsd.va.gov/apps/ptsdcoachonline/default.htm)
