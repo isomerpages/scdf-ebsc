@@ -8,7 +8,7 @@ When we feel overwhelmed by stress *(i.e., distress - 'negative' stress which cr
 However, not all methods used to cope with stress are good for our well-being. For example, stress eating, stress shopping, or binge drinking may be 'quick fixes' to manage stress, but these methods of coping are not effective long-term solutions and can even impact us negatively if done excessively.
 
 While we do recognise that such behaviours are unhealthy ways to cope with stress, what are some reasons we may still engage in these behaviours?
-![](/images/behavioural%20coping.png)
+![](/images/behavioural%20coping%20(larger).png)
 
 ### Engage in Healthy Coping Behaviours
 
