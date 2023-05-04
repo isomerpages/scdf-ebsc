@@ -8,7 +8,7 @@ As emergency responders, we need to be in good shape to complete challenging tas
 These are some strategies that you can adopt to manage your stress and improve your mood. Additionally, these strategies allow you to take care of yourself and build up your physical fitness. Remember, **your physical health is as important as your mental health**!
 
 ### Exercise
-The first strategy is exercise. Check out come of its benefits:
+The first strategy is exercise. Check out some of its benefits:
 ![](/images/physical%20fitness%203%20(larger).png)
 
 ### Sleep
