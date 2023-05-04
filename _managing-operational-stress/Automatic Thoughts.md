@@ -5,9 +5,9 @@ description: ""
 ---
 ### Perception of Events
 Our thoughts can shape our actions.
-![](/images/thoughts%20-%20feelings%20-%20behaviour2.png)
+![](/images/thoughts%20-%20feelings%20-%20behaviour%20(larger).png)
 For example:
-![](/images/example.png)
+![](/images/example%20(larger).png)
 It is not the event that bothers us. Instead, it is the way we **interpret** the event - the **meaning** we give to the event - that results in our feelings. This explains why two people experiencing the same event can react in completely different ways. 
 
 This also means that although we may not always be able to change the situations we find ourselves in or the people we meet, we are in charge of how we interpret events. Our attitudes and perspectives determine how we will feel.
@@ -21,7 +21,7 @@ However, what we can do when an automatic thought 'pops' into our mind is to **r
 
 ### Examples of Unhelpful Thoughts
 After attending to a challenging or routine call, when doing your work supporting the organisation, or even in your personal life, there may be some automatic thoughts that 'pop' into your mind. These thoughts can fall under the category of **unhelpful thinking styles**, which include the following:
-![](/images/unhelpful%20thoughts%20examples%201.png)![](/images/unhelpful%20thoughts%20examples%202.png)
+![](/images/unhelpful%20thoughts%20examples%201%20(larger).png)![](/images/unhelpful%20thoughts%20examples%202%20(larger).png)
 *Note: This list is not exhaustive.*
 
 ### Helpful Thoughts
