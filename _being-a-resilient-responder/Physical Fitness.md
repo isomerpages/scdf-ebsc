@@ -3,6 +3,8 @@ title: Physical Fitness
 permalink: /being-a-resilient-responder/physical-fitness/
 description: ""
 ---
+As emergency responders, we need to be in good shape to complete challenging tasks such as carrying heavy equipment. Being physically fit also helps us to prevent injury and cope with demands under stress. 
+
 These are some strategies that you can adopt to manage your stress and improve your mood. Additionally, these strategies allow you to take care of yourself and build up your physical fitness. Remember, **your physical health is as important as your mental health**!
 
 ### Exercise
