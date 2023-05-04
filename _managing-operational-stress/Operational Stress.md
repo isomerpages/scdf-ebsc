@@ -24,7 +24,7 @@ How is the topic of stress relevant to emergency responders? A common form of st
 When we are aware of such stressors and their impact, we are better prepared to manage our stress reactions and support our team members. We will also be able to perform better in our job and find meaning in our work.
 
 ### Sources of Operational Stress
-Here are some sources of operational stress for first responders:![](/images/ops%20stress.png)*Note: This list is not exhaustive. For more information on highly stressful incidents such as critical incidents, check out the page on [critical incident stress](/managing-operational-stress/critical-incident-stress).*
+Here are some sources of operational stress:![](/images/ops%20stress.png)*Note: This list is not exhaustive. For more information on highly stressful incidents such as critical incidents, check out the page on [critical incident stress](/managing-operational-stress/critical-incident-stress).*
 
 ### Stress-Related Reactions
 What are some common signs that we may be experiencing distress? Let's use the **BEEP** model to help us understand our stressors better!
