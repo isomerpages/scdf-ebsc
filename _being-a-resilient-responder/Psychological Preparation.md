@@ -7,8 +7,8 @@ Being **psychologically** prepared goes hand-in-hand with being physically prepa
 
 ### What can you do *before* a response?
 Prepare yourself **mentally** to enhance your operational effectiveness!
-![](/images/psych%20prep%201%20(1).png)
-![](/images/psych%20prep%202%20(1).png)
+![](/images/psych%20prep%201%20(larger).png)
+![](/images/psych%20prep%202%20(larger).png)
 
 ### What can you do *after* a response?
 Engage in **self-care** to take care of your mental health!
