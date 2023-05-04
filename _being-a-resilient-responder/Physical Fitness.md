@@ -12,7 +12,7 @@ The first strategy is exercise. Check out come of its benefits:
 ![](/images/physical%20fitness%203%20(larger).png)
 
 ### Sleep
-Next, part of the process of becoming fitter and healthier lies in recovery. This involves ensuring you get the recommended amount of at least 7 hours of sleep on your rest days, so you have sufficient energy for the next day.
+Next, part of the process of becoming fitter and healthier lies in recovery. This involves ensuring you get the recommended amount of at least 7 hours of sleep on your rest days after the long and tiring shifts, so you have sufficient energy for the next day.
 ![](/images/sleep%201%20(larger).png)
 **How much sleep are you getting**? If you would like to work towards getting enough sleep on your rest days, here are some steps to building good sleep hygiene:
 ![](/images/sleep%202%20(larger).png)
