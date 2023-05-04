@@ -12,7 +12,7 @@ Prepare yourself **mentally** to enhance your operational effectiveness!
 
 ### What can you do *after* a response?
 Engage in **self-care** to take care of your mental health!
-![](/images/psych%20prep%202%20(2).png)
+![](/images/psych%20prep%202%20(larger)(1).png)
 Check out the page on [emotional fitness](/being-a-resilient-responder/emotional-fitness) for the steps for progressive muscle relaxation!
 
 For more information on taking care of yourself in between your duties, check out the pages on [physical fitness](/being-a-resilient-responder/physical-fitness), [mental fitness](/being-a-resilient-responder/mental-fitness), [emotional fitness](/being-a-resilient-responder/emotional-fitness), and [social fitness](/being-a-resilient-responder/social-fitness).
