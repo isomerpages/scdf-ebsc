@@ -4,7 +4,7 @@ permalink: /managing-operational-stress/critical-incident-stress/
 description: ""
 ---
 ### Critical Incidents
-A critical incident is an event that results in **unusually strong emotional reactions** that have the potential to **interfere with the ability to function normally** (International Critical Incident Stress Foundation, 2015).
+As emergency responders, we may attend to highly stressful incidents during our shifts, some of which are considered critical incidents. A critical incident is an event that results in **unusually strong emotional reactions** that have the potential to **interfere with the ability to function normally**.
 
 Examples of critical incidents:
 * Significant events involving children
