@@ -12,7 +12,7 @@ The first technique is to shift your focus of attention away from the emotions y
 ### Deep Breathing
 Another technique is deep breathing, which can help you quicklycontrol your emotional responses when you feel overwhelmed by giving you time to calm down and relook at the situation. 
 ![](/images/emotional%20fitness%202%20(larger).png)
-What's great about this strategy is that you can do it *whenever* you need it and *wherever* you are at - whether you are at home or in the station!
+What's great about this strategy is that you can do it *whenever* you need it and *wherever* you are at - whether you are at home or at the station!
 
 ### Progressive Muscle Relaxation
 Another technique is progressive muscle relaxation, starting from your head to your toes. 
