@@ -74,7 +74,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * [SupportGoWhere ComCare SMTA online application](https://supportgowhere.life.gov.sg/schemes/COMCARE-SMTA/comcare-short-to-medium-term-assistance-smta ) (Application portal for financial assistance)
 * 1800 777 0000 (National Anti-Violence and Sexual Harassment Helpline)
 
-**[National Council of Social Service](https://www.comchest.gov.sg/)**
+**[Community Chest (National Council of Social Service)](https://www.comchest.gov.sg/)**
 * 1800 210 2600 (Community Chest Hotline)
 
 **[MSF Directories](https://www.msf.gov.sg/our-services/directories)**
