@@ -60,6 +60,14 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * 8592 0609 (WhatsApp counselling: Tue to Thur, 7pm to 10pm; Sat, 2pm to 5pm)
 
 ### Community Resources
+**[ComCare](https://www.msf.gov.sg/what-we-do/comcare)**
+* 1800 222 0000 (ComCare Call Hotline: Daily, 7am to 12am)
+* [SupportGoWhere ComCare SMTA online application](https://supportgowhere.life.gov.sg/schemes/COMCARE-SMTA/comcare-short-to-medium-term-assistance-smta ) (Application portal for financial assistance)
+* 1800 777 0000 (National Anti-Violence and Sexual Harassment Helpline)
+
+**[MSF Directories](https://www.msf.gov.sg/our-services/directories)**
+* Search for Family Service Centres near your location
+
 **[Chinese Development Assistance Council (CDAC)](https://www.cdac.org.sg/en/)**
 * 6841 4889 (Office hours)
 
@@ -68,14 +76,6 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 
 **[Yayasan Mendaki](https://www.mendaki.org.sg/)**
 * 6245 5555 (Office hours)
-
-**[ComCare](https://www.msf.gov.sg/what-we-do/comcare)**
-* 1800 222 0000 (ComCare Call Hotline: Daily, 7am to 12am)
-* [SupportGoWhere ComCare SMTA online application](https://supportgowhere.life.gov.sg/schemes/COMCARE-SMTA/comcare-short-to-medium-term-assistance-smta ) (Application portal for financial assistance)
-* 1800 777 0000 (National Anti-Violence and Sexual Harassment Helpline)
-
-**[MSF Directories](https://www.msf.gov.sg/our-services/directories)**
-* Search for Family Service Centres near your location 
 
 
 ### Government Psychological and Psychiatric Services
