@@ -75,7 +75,6 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * 1800 295 3333 (Office hours)
 
 **[Yayasan Mendaki](https://www.mendaki.org.sg/)**
-* 6245 5555 (Office hours)
 * [Contact MENDAKI](https://my.mendaki.org.sg/Home/ContactUs) 
 
 
