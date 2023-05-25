@@ -14,7 +14,7 @@ Eustress is the opposite of distress in terms of how you experience it. It is wh
 ### What is Distress?
 On the other hand, distress **causes unpleasant effects** such as worry and anxiety. It is often called **negative stress** because of how it may affect us.
 ![](/images/distress%20(larger).png)
-*For more signs and symptoms of distress, you can check out the BEEP model under stress-related reactions below.*
+*Note: For more signs and symptoms of distress, you can check out the BEEP model under stress-related reactions below.*
 
 While too much stress can be overwhelming (i.e., distress), we can still learn to **manage** this stress that we experience using appropriate strategies, such as the strategies found under [physical](/being-a-resilient-responder/physical-fitness), [mental](/being-a-resilient-responder/mental-fitness), [emotional](/being-a-resilient-responder/emotional-fitness), and [social](/being-a-resilient-responder/social-fitness) fitness!
 
