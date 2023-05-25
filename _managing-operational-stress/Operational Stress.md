@@ -4,7 +4,7 @@ permalink: /managing-operational-stress/ops-stress/
 description: ""
 ---
 ### Stress
-While many of us may associate stress with something negative, stress is **not** always a bad thing. Stress can be a good thing, and we need a good amount of stress to grow. This form of stress is called eustress.
+There are different types of stress. While many of us may associate stress with something negative, stress is **not** always a bad thing. Stress can be good, and we need a good amount of stress to grow. This form of stress is called eustress.
 ![](/images/stress%20curve%20(larger).png)
 
 ### What is Eustress?
