@@ -9,11 +9,11 @@ When we are carrying out our duties as emergency responders or in supporting the
 Do you know that negativity can come from the automatic and unhelpful thoughts that 'pop' into our minds? For many, this usually happens when we are **faced with challenges** or **overwhelmed with stress** (i.e., distress).
 * To find out more on the different types of stress - eustress (positive stress which creates pleasant effects such as growth) and distress (negative stress which creates unpleasant effects such as fear and anxiety) - check out the page on [operational stress](/managing-operational-stress/ops-stress).
 
-Once you are aware of these thoughts and able to identify them, you can challenge your thoughts and replace them with more positive and realistic ones. Try using the following steps (**P-S-D**) to challenge any unhelpful thoughts!
+Once you are aware of these thoughts and able to identify them, you can challenge your thoughts and replace them with more positive and realistic ones. Try using the following steps (**P-S-D**) to challenge unhelpful thoughts!
 ![](/images/mental%20fitness%201.png)
 
 ### Positive Reframing
-When you are faced with challenges which may seem quite daunting at times, it also helps to be able to look at them in a more positive light, so that you do not feel overwhelmed. 
+When you are faced with challenges which may seem quite daunting at times, it also helps to look at them in a more positive light, so that you do not feel overwhelmed. 
 
 In psychology, there is something called the **90-10 rule** which says that the way you react to events is much more influential than the events themselves - only 10% of your life is determined by what happens to you, the other 90% is related to how you react to the 10%.
 
