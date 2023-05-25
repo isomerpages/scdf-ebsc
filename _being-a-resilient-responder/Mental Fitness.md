@@ -15,7 +15,7 @@ Once you are aware of these thoughts and able to identify them, you can challeng
 ### Positive Reframing
 When you are faced with challenges which may seem quite daunting at times, such as going on a stressful call, it also helps to look at them in a more positive light so that you do not feel overwhelmed. 
 
-In psychology, there is something called the **90-10 rule** which says that the way you react to events is much more influential than the events themselves - only 10% of your life is determined by what happens to you, the other 90% is related to how you react to the 10%.
+In psychology, there is the **90-10 rule** which says that the way you react to events is much more influential than the events themselves - only 10% of your life is determined by what happens to you, the other 90% is related to how you react to the 10%.
 
 Keeping this rule in mind can help you remember that you control the majority of your life! Here are some ways you can apply the 90-10 rule:
 ![](/images/mental%20fitness%202%20(larger).png)
