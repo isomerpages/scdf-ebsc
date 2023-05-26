@@ -90,9 +90,13 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 
 **[National University Hospital (Department of Psychological Medicine)](https://www.nuh.com.sg/our-services/Specialties/Psychological-Medicine/Pages/default.aspx)**
 * 6908 2222
+* Appointments: appointment@nuhs.edu.sg
+* General enquiries: contactus@nuhs.edu.sg
 
 **[Ng Teng Fong General Hospital (Department of Psychiatry)](https://www.ntfgh.com.sg/Our-Services/Clinical-Services/Pages/Psychiatry.aspx)**
 * 6908 2222
+* Appointments: appointment@nuhs.edu.sg
+* General enquiries: contactus@nuhs.edu.sg
 
 **[Sengkang General Hospital (Department of Psychiatry)](https://www.skh.com.sg/patient-care/specialties-services/department-of-psychiatry)**
 * 6930 5000
