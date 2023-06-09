@@ -11,7 +11,15 @@ The first technique is to shift your focus of attention away from the emotions y
 
 ### Deep Breathing
 Another technique is deep breathing, which can help you quickly control your emotional responses when you feel overwhelmed by giving you time to calm down and relook at the situation. 
-![](/images/emotional%20fitness%202%20(larger).png)
+
+Box breathing involves 4 steps, each lasting for 4 seconds:
+* #1: Breathe in 
+* #2: Hold your breath 
+* #3: Breathe out 
+* #4: Hold your breath
+
+**Try it out by following this video!**
+![](/images/box%20breathing.gif)
 What's great about this strategy is that you can do it *whenever* you need it and *wherever* you are at - whether you are at home or at the station!
 
 ### Progressive Muscle Relaxation
