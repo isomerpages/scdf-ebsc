@@ -44,4 +44,5 @@ Where do you feel most relaxed? Try out some fun ways of visualisation during yo
 ### References
 * Lakeside Chiropractic. (2017, October 10). _Muscle Relaxation Exercises_. Retrieved March 1, 2023, from [https://www.lakesidechiro.com.au/blog/muscle-relaxation-exercises-chiro-nearby#gsc.tab=0](https://www.lakesidechiro.com.au/blog/muscle-relaxation-exercises-chiro-nearby#gsc.tab=0)
 * Raypole, C. (2020, April 28). *How to Become the Boss of Your Emotions*. Healthline. Retrieved March 1, 2023,from [https://www.healthline.com/health/how-to-control-your-emotions](https://www.healthline.com/health/how-to-control-your-emotions)
+* Sakhpara, A. (2019). _Box Breathing Technique_. Maimonides Emergency Medicine. Retrieved March 1, 2023, from [https://www.maimonidesem.org/blog/box-breathing-technique-nbspnbsp](https://www.maimonidesem.org/blog/box-breathing-technique-nbspnbsp)
 * Scott, E. (n.d.).  _Use Guided Imagery for Relaxation_. verywellmind. Retrieved March 1, 2023, from [https://www.verywellmind.com/use-guided-imagery-for-relaxation-3144606](https://www.verywellmind.com/use-guided-imagery-for-relaxation-3144606)
