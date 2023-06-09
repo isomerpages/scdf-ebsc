@@ -6,7 +6,7 @@ description: ""
 When we are carrying out our duties as emergency responders or in supporting the organisation, we may face difficult situations. Building our mental fitness helps us to deal with such difficult situations in a positive manner and bounce back from challenges.
 
 ### Challenge Unhelpful Thoughts
-Do you know that negativity can come from the automatic and unhelpful thoughts that 'pop' into our minds? For many, this usually happens when we are **faced with challenges** or **overwhelmed with stress** (i.e., distress).
+Do you know that negativity can come from automatic and unhelpful thoughts that 'pop' into our minds? For many, this usually happens when we are **faced with challenges** or **overwhelmed with stress** (i.e., distress).
 * To find out more on the different types of stress - eustress (positive stress which creates pleasant effects such as growth) and distress (negative stress which creates unpleasant effects such as fear and anxiety) - check out the page on [operational stress](/managing-operational-stress/ops-stress).
 
 Once you are aware of these thoughts and able to identify them, you can challenge your thoughts and replace them with more positive and realistic ones. Try using the following steps (**P-S-D**) to challenge unhelpful thoughts!
