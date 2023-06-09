@@ -8,7 +8,7 @@ Human beings are social creatures, and part of our well-being lies in belonging 
 ### Social Awareness
 Social awareness refers to your ability to accurately sense others' needs and understand their perspectives. Increasing your social awareness enables you to communicate and collaborate more effectively with others. While it is important to manage your relationships with your team members so that you can work well together, it is also important to manage your relationships with your family at home!
 
-Here are some ways you can build your social awareness - both at work as you interact with your team, and at home in your interactions with your family members: 
+Here are some ways you can build your social awareness:
 ![](/images/social%20support%201%20(larger).png)![](/images/social%20support%202%20(larger).png)
 
 
