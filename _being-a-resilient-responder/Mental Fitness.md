@@ -10,7 +10,7 @@ Do you know that negativity can come from automatic and unhelpful thoughts that 
 * To find out more on the different types of stress - eustress (positive stress which creates pleasant effects such as growth) and distress (negative stress which creates unpleasant effects such as fear and anxiety) - check out the page on [operational stress](/managing-operational-stress/ops-stress).
 
 Once you are aware of these thoughts and able to identify them, you can challenge your thoughts and replace them with more positive and realistic ones. Try using the following steps (**P-S-D**) to challenge unhelpful thoughts!
-![](/images/mental%20fitness%201.png)
+![](/images/mental%20fitness%201%20(latest).png)
 
 ### Positive Reframing
 When you are faced with challenges which may seem quite daunting, such as going on a stressful call, it also helps to look at them in a more positive light so that you do not feel overwhelmed. 
