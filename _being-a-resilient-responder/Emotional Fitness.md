@@ -15,19 +15,22 @@ Another technique is deep breathing, which can help you quickly control your emo
 What's great about this strategy is that you can do it *whenever* you need it and *wherever* you are at - whether you are at home or at the station!
 
 ### Progressive Muscle Relaxation
-Another technique is progressive muscle relaxation, starting from your head to your toes. 
+Another technique is progressive muscle relaxation, starting from your head to your toes. Try out a PMR audio exercise [here](https://www.healthhub.sg/sites/assets/Assets/Programs/mindsg/audio/Progressive_Muscle_Relaxation.mp3)!
 
 You can engage in PMR while seated:
 ![](/images/emotional%20fitness%203b.png)
 Alternatively, you can engage in PMR while lying down. Try doing this when resting on your back, the steps are the same:
 ![](/images/emotional%20fitness%203a.png)
 
-Click [here](https://www.healthhub.sg/sites/assets/Assets/Programs/mindsg/audio/Progressive_Muscle_Relaxation.mp3) to try out a PMR audio exercise!
+
 
 ### Visualisation
-The last technique is visualisation. Similar to daydreaming, visualisation is accomplished through using your imagination.
+The last technique is visualisation. Similar to daydreaming, visualisation is accomplished through using your imagination. 
 ![](/images/emotional%20fitness%204a%20(larger).png)
 ![](/images/emotional%20fitness%204b%20(larger).png)
+
+You can also close your eyes and listen to a visualisation audio exercise [here](https://www.healthhub.sg/sites/assets/Assets/Programs/mindsg/audio/Guided_Imagery.mp3).
+
 Where do you feel most relaxed? Try out some fun ways of visualisation during your rest breaks at your station!
 
 ### References
