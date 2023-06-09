@@ -19,8 +19,10 @@ Another technique is progressive muscle relaxation, starting from your head to y
 
 You can engage in PMR while seated:
 ![](/images/emotional%20fitness%203b.png)
-Alternatively, you can engage in PMR while lying down. Try doing this when resting on your back! The steps are the same:
+Alternatively, you can engage in PMR while lying down. Try doing this when resting on your back, the steps are the same:
 ![](/images/emotional%20fitness%203a.png)
+
+Click [here](https://www.healthhub.sg/sites/assets/Assets/Programs/mindsg/audio/Progressive_Muscle_Relaxation.mp3) to try out a PMR audio exercise!
 
 ### Visualisation
 The last technique is visualisation. Similar to daydreaming, visualisation is accomplished through using your imagination.
