@@ -18,9 +18,9 @@ Box breathing involves 4 steps, each lasting for 4 seconds:
 * #3: Breathe out 
 * #4: Hold your breath
 
-**Try it out by following this video!**
+**Try it out by following this video!** What's great about this strategy is that you can do it *whenever* you need it and *wherever* you are at - whether you are at home or at the station!
 ![](/images/box%20breathing.gif)
-What's great about this strategy is that you can do it *whenever* you need it and *wherever* you are at - whether you are at home or at the station!
+
 
 ### Progressive Muscle Relaxation
 Another technique is progressive muscle relaxation, starting from your head to your toes. Try out a PMR audio exercise [here](https://www.healthhub.sg/sites/assets/Assets/Programs/mindsg/audio/Progressive_Muscle_Relaxation.mp3)!
