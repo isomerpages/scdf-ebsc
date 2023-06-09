@@ -33,11 +33,10 @@ Alternatively, you can engage in PMR while lying down. Try doing this when resti
 
 
 ### Visualisation
-The last technique is visualisation. Similar to daydreaming, visualisation is accomplished through using your imagination. 
+The last technique is visualisation. Similar to daydreaming, visualisation is accomplished through using your imagination. You can close your eyes and listen to a visualisation audio exercise [here](https://www.healthhub.sg/sites/assets/Assets/Programs/mindsg/audio/Guided_Imagery.mp3).
+
 ![](/images/emotional%20fitness%204a%20(larger).png)
 ![](/images/emotional%20fitness%204b%20(larger).png)
-
-You can also close your eyes and listen to a visualisation audio exercise [here](https://www.healthhub.sg/sites/assets/Assets/Programs/mindsg/audio/Guided_Imagery.mp3).
 
 Where do you feel most relaxed? Try out some fun ways of visualisation during your rest breaks at your station!
 
