@@ -22,7 +22,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 **[Silver Ribbon (Singapore)](https://www.silverribbonsingapore.com/index.html)**
 * 6386 1928 (Office hours, except PH and PH eve)
 
-**Mindline**
+**mindline.sg**
 * [www.mindline.sg](https://www.mindline.sg)
 
 **MindSG**
