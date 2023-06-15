@@ -10,7 +10,7 @@ When we are handling a few problems simultaneously, it can be challenging to sta
 ![](/images/compartmentalisation%201%20(larger).png)
 Although disengaging with our emotions while on the job can be a valuable tool sometimes, it is **not** a long-term solution. 
 These are some strategies that you can use to **regulate your emotions** while you continue carrying out your work as an emergency responder on the frontlines (check out more strategies for emotional regulation on the page for [emotional fitness](/being-a-resilient-responder/emotional-fitness)): 
-![](/images/compartmentalisation%202%20(larger).png)
+![](/images/compartmentalisation%202%20(latest).png)
 Additionally, you can also focus on the task at hand by **[challenging any unhelpful thoughts](/being-a-resilient-responder/mental-fitness)** that may 'pop' into your mind when you are on the job. 
 
 Lastly, you can speak to someone and/or an EBSC staff if you feel that disengaging with your emotions while on the job is affecting you at work and/or at home.
