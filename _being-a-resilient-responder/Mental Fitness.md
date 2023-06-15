@@ -3,7 +3,7 @@ title: Mental Fitness
 permalink: /being-a-resilient-responder/mental-fitness/
 description: ""
 ---
-When we are carrying out our duties as emergency responders or in supporting the organisation, we may face difficult situations. Building our mental fitness helps us to deal with such difficult situations in a positive manner and bounce back from challenges.
+When we are carrying out our duties as emergency responders or in supporting the organisation, we may face difficult situations such as going on a stressful call. Building our mental fitness helps us to deal with such difficult situations in a positive manner and bounce back from challenges.
 
 ### Challenge Unhelpful Thoughts
 Do you know that negativity can come from automatic and unhelpful thoughts that 'pop' into our minds? For many, this usually happens when we are **faced with challenges** or **overwhelmed with stress** (i.e., distress).
@@ -13,7 +13,7 @@ Once you are aware of these thoughts and able to identify them, you can challeng
 ![](/images/mental%20fitness%201%20(latest).png)
 
 ### Positive Reframing
-When you are faced with challenges which may seem quite daunting, such as going on a stressful call, it also helps to look at them in a more positive light so that you do not feel overwhelmed. 
+When you are faced with challenges which may seem quite daunting, it also helps to look at them in a more positive light so that you do not feel overwhelmed. 
 
 In psychology, there is the **90-10 rule** which says that the way you react to events is much more influential than the events themselves - only 10% of your life is determined by what happens to you, the other 90% is related to how you react to the 10%.
 
