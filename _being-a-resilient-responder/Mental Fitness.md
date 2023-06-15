@@ -3,7 +3,7 @@ title: Mental Fitness
 permalink: /being-a-resilient-responder/mental-fitness/
 description: ""
 ---
-When we are carrying out our duties as emergency responders or in supporting the organisation, we may face difficult situations such as attending to a challenging call. Building our mental fitness helps us to deal with such difficult situations in a positive manner and bounce back from challenges.
+When we are carrying out our duties as emergency responders or in supporting the organisation, we may face difficult situations. Building our mental fitness helps us to deal with such difficult situations in a positive manner and bounce back from challenges.
 
 ### Challenge Unhelpful Thoughts
 Do you know that negativity can come from automatic and unhelpful thoughts that 'pop' into our minds? For many, this usually happens when we are **faced with challenges** or **overwhelmed with stress** (i.e., distress).
