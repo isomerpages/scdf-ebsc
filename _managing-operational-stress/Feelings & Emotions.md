@@ -10,7 +10,7 @@ It is thus helpful to know how we are feeling and what actions our emotions may 
 ### How Are You Feeling Today?
 You can feel more than one emotion at any one time. For example, when you think that you have completed a task well, you may feel confident in your work and happy.
 
-Similarly, good and "bad" emotions can co-exist. You do not have to only feel positive emotions or negative emotions in the present moment - you may feel relieved about a certain situation, but also feel disappoint that the outcome was not up to your expectations.
+Similarly, good and "bad" emotions can co-exist. You do not have to only feel positive emotions or negative emotions in the present moment - you may feel relieved about a certain situation, but also feel disappointed that the outcome was not up to your expectations.
 
 So, how are you feeling today? These are some examples of words that can help you to describe how you are currently feeling:
 ![](/images/emotions%20&%20feelings%20(larger).png)
