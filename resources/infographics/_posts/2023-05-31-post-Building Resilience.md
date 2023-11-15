@@ -9,7 +9,7 @@ variant: markdown
 ---
 Resilience is the ability to remain adaptable and bounce back from challenges in our lives.
 
-Here are some tips to help you build resilience. Scroll to the end for more resources too!
+Here are some tips to help you build resilience. 
 
 ![](/images/building%20resilience.png)
 
