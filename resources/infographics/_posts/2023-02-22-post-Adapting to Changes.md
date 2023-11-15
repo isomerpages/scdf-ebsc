@@ -5,6 +5,7 @@ date: 2023-02-22
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 Changes are an inevitable part of life. It is normal to feel uncertain and anxious whenever we experience changes. 
 
@@ -12,4 +13,4 @@ Being adaptable to change is an important part of being resilient. Find out how 
 
 ![](/images/adapting%20to%20changes%20infographic.png)
 
-[Download PDF file here ](/files/adapting%20to%20changes%20.pdf)
+[Download PDF here](/files/adapting%20to%20changes%20.pdf)
