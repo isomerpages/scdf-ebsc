@@ -2,6 +2,7 @@
 title: External Resources
 permalink: /support-options/external-resources/
 description: ""
+variant: markdown
 ---
 ### In addition to our SCDF resources, these external resources could also be contacted for more information or support
 For more information, you can also contact SCDF_CARE@scdf.gov.sg.
@@ -26,7 +27,7 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * [www.mindline.sg](https://www.mindline.sg)
 
 **MindSG**
-* [www.healthhub.sg/programmes/186/MindSG](https://www.healthhub.sg/programmes/186/MindSG)
+* [https://www.healthhub.sg/programmes/mindsg/discover](https://www.healthhub.sg/programmes/mindsg/discover)
 
 ### Youth Resources
 **[CARE Singapore](https://care.sg/)**
@@ -99,3 +100,5 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 
 **[Singapore General Hospital (Department of Psychiatry)](https://www.sgh.com.sg/patient-care/specialties-services/psychiatry-overview)**
 * 6222 3322
+
+*Permission has been sought to include resources from the above agencies in this website.*
