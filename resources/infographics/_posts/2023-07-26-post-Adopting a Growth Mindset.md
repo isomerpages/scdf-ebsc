@@ -11,7 +11,7 @@ Did you know? Individuals with a growth mindset are more likely to reach their f
 
 Here are some tips to help you adopt a growth mindset and thereby build resilience.
 
-![](/images/_ORP__July_2023_EDM___Adopting_a_Growth_Mindset.jpg)
+![](/images/_ORP__July_2023_EDM___Adopting_a_Growth_Mindset.png)
 
 [Download PDF here](/files/_ORP__July_2023_EDM___Adopting_a_Growth_Mindset.pdf)
 
