@@ -46,7 +46,7 @@ Thank you for visiting this Self-help Portal (henceforth known as "Web Site"). B
 
 ##### Links from this Web Site to other web sites
 
-11\. This Web Site contains hyperlinks to web sites which are not maintained by EBSC, SCDF. EBSC, SCDF is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk.
+11\. This Web Site contains hyperlinks to web sites which are not maintained by EBSC, SCDF. Use of the hyperlinks and access to such web sites are entirely at your own risk. EBSC, SCDF is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites.
 
 12. Hyperlinks to other web sites are provided as a convenience. In no circumstances shall EBSC, SCDF be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.
 
