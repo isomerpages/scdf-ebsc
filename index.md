@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Resilient Responders
-      subtitle: A self-help portal for emergency responders
+      subtitle: A Self-help Portal for Emergency Responders
       background: /images/Banner3.jpg
       button: Get Started
       url: /being-a-resilient-responder
@@ -22,8 +22,9 @@ sections:
         - title: Support Options
           description: ""
           url: /support-options
+      variant: center
   - infopic:
-      title: Being a resilient responder
+      title: Being a Resilient Responder
       subtitle: Be Operationally Ready
       description: Be psychologically prepared and cope proactively with the stressors
         faced at work.
