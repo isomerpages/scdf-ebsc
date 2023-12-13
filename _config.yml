@@ -1,4 +1,4 @@
-title: Resilient Responders
+title: EBSC Resilient Responders
 url: https://www.resilientresponders.sg
 favicon: /images/EBSC logo.jpg
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#6011a2"
     - title: media-color-five
       color: "#6011a2"
-description: A self-help portal for emergency responders.
+description: A Self-help Portal for Emergency Responders.
 permalink: none
 baseurl: ""
 exclude:
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d1oufkrfhunxzk.amplifyapp.com
 prod: https://master.d1oufkrfhunxzk.amplifyapp.com
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
