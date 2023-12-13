@@ -15,7 +15,7 @@ colors:
       color: "#6011a2"
     - title: media-color-five
       color: "#6011a2"
-description: A Self-help Portal for Emergency Responders.
+description: A Self-help Portal for Emergency Responders
 permalink: none
 baseurl: ""
 exclude:
