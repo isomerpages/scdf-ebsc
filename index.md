@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Resilient Responders
-description: A self-help portal for emergency responders.
+title: EBSC Resilient Responders
+description: A Self-help Portal for Emergency Responders.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
