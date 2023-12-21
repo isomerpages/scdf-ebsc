@@ -1,0 +1,12 @@
+collections:
+  being-a-resilient-responder:
+    output: true
+    order:
+      - Overview.md
+      - Psychological Preparation.md
+      - Motivation.md
+      - Physical Fitness.md
+      - Mental Fitness.md
+      - Emotional Fitness.md
+      - Social Fitness.md
+      - Tips for Supporting Colleagues.md

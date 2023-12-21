@@ -1,0 +1,11 @@
+collections:
+  managing-operational-stress:
+    output: true
+    order:
+      - Overview.md
+      - Operational Stress.md
+      - Critical Incident Stress.md
+      - Compartmentalisation.md
+      - Automatic Thoughts.md
+      - Feelings & Emotions.md
+      - Behavioural Coping.md

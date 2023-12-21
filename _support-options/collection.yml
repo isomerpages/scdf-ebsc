@@ -1,0 +1,7 @@
+collections:
+  support-options:
+    output: true
+    order:
+      - Overview.md
+      - SCDF Resources.md
+      - External Resources.md
