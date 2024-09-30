@@ -11,6 +11,4 @@ Changes are an inevitable part of life. It is normal to feel uncertain and anxio
 
 Being adaptable to change is an important part of being resilient. Find out how you can better manage and adapt to changes with the tips below!
 
-![](/images/adapting%20to%20changes%20infographic.png)
-
-[Download PDF here](/files/adapting%20to%20changes%20.pdf)
+![](/images/ORP__Jan_2023_EDM___Adapting_to_Changes.png)
