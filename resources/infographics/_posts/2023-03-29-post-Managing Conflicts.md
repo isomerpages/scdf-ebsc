@@ -12,5 +12,3 @@ Did you know that conflict is a natural part of human interactions, including at
 Here are some tips to manage it positively!
 
 ![](/images/managing%20conflicts.png)
-
-[Download PDF here](/files/managing%20conflicts.pdf)

@@ -1,22 +1,21 @@
 ---
 title: Building Resilience
-permalink: /resources/infographics/building-resilience/
+permalink: /building-resilience/
 date: 2023-05-31
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
-Resilience is the ability to remain adaptable and bounce back from challenges in our lives.
-
-Here are some tips to help you build resilience. 
-
-![](/images/building%20resilience.png)
-
-[Download PDF here](/files/building%20resilience.pdf)
-
-[Download reflection booklet here](/files/building%20resilience%20(reflection).pdf)
-
-[Read an article here](https://www.apa.org/topics/resilience/building-your-resilience)
-
-[Watch a video here](https://www.youtube.com/watch?v=9-5SMpg7Q0k)
+<p>Resilience is the ability to remain adaptable and bounce back from challenges
+in our lives.</p>
+<p>Here are some tips to help you build resilience.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/building resilience.png">
+</div>
+<p><a href="https://go.gov.sg/orpmay23edm-reflection" rel="noopener nofollow" target="_blank">Download reflection booklet here</a>
+</p>
+<p><a href="https://go.gov.sg/orpmay23edm-article" rel="noopener noreferrer nofollow" target="_blank">Read an article here</a>
+</p>
+<p><a href="https://go.gov.sg/orpmay23edm-video" rel="noopener noreferrer nofollow" target="_blank">Watch a video here</a>
+</p>

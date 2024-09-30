@@ -12,16 +12,6 @@ sections:
       background: /images/Banner3.jpg
       button: Get Started
       url: /being-a-resilient-responder
-      key_highlights:
-        - title: Being a resilient responder
-          description: ""
-          url: /being-a-resilient-responder
-        - title: Managing Operational stress
-          description: ""
-          url: /managing-operational-stress
-        - title: Support Options
-          description: ""
-          url: /support-options
       variant: center
   - infopic:
       title: Being a Resilient Responder
