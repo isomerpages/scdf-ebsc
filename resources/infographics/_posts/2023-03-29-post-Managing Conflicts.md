@@ -13,4 +13,3 @@ Here are some tips to manage it positively!
 
 ![](/images/managing%20conflicts.png)
 
-[Download PDF here](/files/managing%20conflicts.pdf)
