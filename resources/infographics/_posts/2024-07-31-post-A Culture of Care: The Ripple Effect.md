@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p>Did you know that our actions have the potential to create impactful <strong>Ripple Effects</strong>?</p>
 <p>Building a culture of care is important in fostering a healthy workplace,
-and we can all play an important part! Let’s see how we can create <strong>Ripple Effects</strong> by <strong><a href="/a-culture-of-care-connecting-with-others/" rel="noopener noreferrer nofollow" target="_blank">Connecting with Others</a></strong> and <strong><a href="https://www.resilientresponders.sg/a-culture-of-care-showing-we-care/" rel="noopener noreferrer nofollow" target="_blank">Showing We Care</a></strong>
+and we can all play an important part! Let’s see how we can create <strong>Ripple Effects</strong> by <strong><a href="/a-culture-of-care-connecting-with-others/" rel="noopener noreferrer nofollow" target="_blank">Connecting with Others</a></strong> and <strong><a href="https://scdfcare.scdf.gov.sg/a-culture-of-care-showing-we-care/" rel="noopener noreferrer nofollow" target="_blank">Showing We Care</a></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
