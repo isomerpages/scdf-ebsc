@@ -15,7 +15,7 @@ The first strategy to keep yourself in good shape is exercise. Check out some of
 ### Sleep
 Next, part of the process of becoming fitter and healthier lies in recovery. This involves ensuring you get the recommended amount of at least 7 hours of sleep on your rest days after a long and tiring shift, so you have sufficient energy for the next day.
 ![](/images/sleep%201%20(larger).png)
-**How much sleep are you getting**? 
+**How much sleep are you getting**?
 If you would like to work towards getting enough sleep on your rest days, here are some steps to building good sleep hygiene:
 ![](/images/sleep%202%20(larger).png)
 For the steps on deep breathing and progressive muscle relaxation, check out the page on [emotional fitness](/being-a-resilient-responder/emotional-fitness)!
