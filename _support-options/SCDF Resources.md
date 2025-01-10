@@ -2,6 +2,7 @@
 title: SCDF Resources
 permalink: /support-options/SCDF-resources/
 description: ""
+variant: markdown
 ---
 ### These are the in-house resources available to support you
 * Paracounsellors and NSF Peer Supporters
