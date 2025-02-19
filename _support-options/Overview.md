@@ -8,4 +8,6 @@ It is **normal** to feel that seeking support can be viewed by others as being '
 
 Check out the tabs on the left for the various in-house and external resources available!
 
+![](/images/Overview_helpline.jpg)
+
 **If you need to speak to someone immediately, you can reach out to Samaritans of Singapore at 1-767 or the SCDF 24/7 Counselling Helpline at 1800-286-6666 (for SCDF personnel).**
