@@ -4,10 +4,6 @@ permalink: /about-us/
 description: ""
 variant: markdown
 ---
-![](/images/AboutEBSC
-
-
-
 ![](/images/EPSD_SHP_Banner.jpg)
 
 
