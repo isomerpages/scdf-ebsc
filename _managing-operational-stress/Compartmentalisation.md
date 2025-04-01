@@ -2,6 +2,7 @@
 title: Compartmentalisation
 permalink: /managing-operational-stress/compartmentalisation/
 description: ""
+variant: markdown
 ---
 ### What is Compartmentalisation?
 Compartmentalisation refers to a defense mechanism where we **mentally separate** any conflicting thoughts, emotions, or events to avoid the discomfort of contradiction. 
@@ -13,7 +14,7 @@ These are some strategies that you can use to **regulate your emotions** while y
 ![](/images/compartmentalisation%202%20(latest).png)
 Additionally, you can also focus on the task at hand by **[challenging any unhelpful thoughts](/being-a-resilient-responder/mental-fitness)** that may 'pop' into your mind when you are on the job. 
 
-Lastly, you can speak to someone and/or an EBSC staff if you feel that disengaging with your emotions while on the job is affecting you at work and/or at home.
+Lastly, you can speak to someone and/or an EPSD staff if you feel that disengaging with your emotions while on the job is affecting you at work and/or at home.
 
 ### References
 * Psychology Today. (n.d.). *Compartmentalization*. [https://www.psychologytoday.com/us/basics/compartmentalization](https://www.psychologytoday.com/us/basics/compartmentalization)
