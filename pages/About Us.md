@@ -2,8 +2,10 @@
 title: About Us
 permalink: /about-us/
 description: ""
+variant: markdown
 ---
-![](/images/AboutEBSC2.png)
+![](/images/EPSD_SHP_Banner.jpg)
+
 
 ### **WHAT DO WE DO?**
 
