@@ -8,12 +8,12 @@ image: ""
 variant: tiptap
 ---
 <p>Ever notice your heart racing, muscles tensing, breath quickening and
-senses sharpening?</p>
-<p>That’s your body’s stress response in action! While often viewed as negative,</p>
-<p>this natural response actually prepares us – both physically and mentally
-– to tackle challenges.</p>
-<p>When managed effectively, stress can be a powerful ally, sharpening our
-focus and boosting our performance.</p>
+senses sharpening? That’s your body’s stress response in action!</p>
+<p></p>
+<p>While often viewed as negative, this natural response actually prepares
+us – both physically and mentally – to tackle challenges. When managed
+effectively, stress can be a powerful ally, sharpening our focus and boosting
+our performance.</p>
 <p>Let’s discover how to make stress work in our favour!</p>
 <p></p>
 <p></p>
