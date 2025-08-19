@@ -13,8 +13,8 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 * 9151 1767 (24-hour CareText via WhatsApp)
 
 ### General Resources for Mental Health
+
 **[Institute of Mental Health (IMH)](https://www.imh.com.sg/Pages/default.aspx)**
-* 6389 2222 (24-hour mental health helpline)
 * 6389 2000 (General enquiries)
 
 **[Counselling and Care Centre](https://counsel.org.sg/)**
@@ -23,7 +23,9 @@ For more information, you can also contact SCDF_CARE@scdf.gov.sg.
 **[Silver Ribbon (Singapore)](https://www.silverribbonsingapore.com/index.html)**
 * 6386 1928 (Office hours, except PH and PH eve)
 
-**mindline.sg**
+**National mindline**
+* 1771 (24-hour hotline)
+* 6669 1771 (WhatsApp)
 * [www.mindline.sg](https://www.mindline.sg)
 
 **MindSG**
