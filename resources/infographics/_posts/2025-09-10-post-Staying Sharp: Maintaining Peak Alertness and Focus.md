@@ -11,7 +11,7 @@ variant: tiptap
 <p>Let’s find out what helps us reach peak alertness and maintain sharp focus
 so we can stay ready and perform at our best no matter what challenges
 come our way.</p>
-<p>Click to read our previous eDMs on <a href="https://scdfcare.scdf.gov.sg/stress-your-ally-in-emergency-response/" rel="noopener noreferrer nofollow" target="_blank">Stress</a> and
+<p>Read our previous eDMs on <a href="https://scdfcare.scdf.gov.sg/stress-your-ally-in-emergency-response/" rel="noopener noreferrer nofollow" target="_blank">Stress</a> and
 <a href="https://scdfcare.scdf.gov.sg/cognitive-load-lighten-the-mental-weight-for-peak-performance/" rel="noopener noreferrer nofollow" target="_blank">Cognitive Load</a>to learn how they can boost our focus too!</p>
 <p></p>
 <div class="isomer-image-wrapper">
