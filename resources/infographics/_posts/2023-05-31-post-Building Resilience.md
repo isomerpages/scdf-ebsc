@@ -13,8 +13,7 @@ in our lives.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/building resilience.png">
 </div>
-<p><a href="https://go.gov.sg/orpmay23edm-reflection" rel="noopener nofollow" target="_blank">Download reflection booklet here</a>
-</p>
+<p></p>
 <p><a href="https://go.gov.sg/orpmay23edm-article" rel="noopener noreferrer nofollow" target="_blank">Read an article here</a>
 </p>
 <p><a href="https://go.gov.sg/orpmay23edm-video" rel="noopener noreferrer nofollow" target="_blank">Watch a video here</a>
